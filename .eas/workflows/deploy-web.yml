@@ -7,7 +7,13 @@ on:
 jobs:
   deploy_web:
     name: Deploy web (production)
-    type: deploy
     environment: production
-    params:
-      prod: true
+    steps:
+      - uses: eas/checkout
+      - uses: eas/install_node_modules
+      - name: Pull production environment
+        run: npx eas-cli env:pull production --non-interactive
+      - name: Export web bundle
+        run: npx expo export --platform web
+      - name: Deploy to production
+        run: npx eas-cli deploy --prod --environment production --non-interactive

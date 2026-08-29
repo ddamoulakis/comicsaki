@@ -46,8 +46,8 @@
     "verify:greek-catalog": "node scripts/verify-greek-catalog-lookup.mjs",
     "upload:greek-covers": "node scripts/upload-greek-covers.mjs",
     "export:web": "expo export --platform web",
-    "deploy:web": "expo export --platform web && npx eas-cli deploy --environment preview",
-    "deploy:web:prod": "expo export --platform web && npx eas-cli deploy --prod --environment production"
+    "deploy:web": "npx eas-cli env:pull preview --non-interactive && expo export --platform web && npx eas-cli deploy --environment preview",
+    "deploy:web:prod": "npx eas-cli env:pull production --non-interactive && expo export --platform web && npx eas-cli deploy --prod --environment production"
   },
   "private": true
 }
