@@ -1,0 +1,4691 @@
+[
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-1",
+    "issueNumber": "1",
+    "title": "Μπλεκ #1",
+    "year": 2018,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek001.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no1"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-2",
+    "issueNumber": "2",
+    "title": "Μπλεκ #2",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek002.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-2"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-3",
+    "issueNumber": "3",
+    "title": "Μπλεκ #3",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek003.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-3"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-4",
+    "issueNumber": "4",
+    "title": "Μπλεκ #4",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek004.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-4"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-5",
+    "issueNumber": "5",
+    "title": "Μπλεκ #5",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek005.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-5"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-6",
+    "issueNumber": "6",
+    "title": "Μπλεκ #6",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek006.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-6"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-7",
+    "issueNumber": "7",
+    "title": "Μπλεκ #7",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek007.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-7"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-8",
+    "issueNumber": "8",
+    "title": "Μπλεκ #8",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek008.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-8"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-9",
+    "issueNumber": "9",
+    "title": "Μπλεκ #9",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek009.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-9"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-10",
+    "issueNumber": "10",
+    "title": "Μπλεκ #10",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek010.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-10"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-11",
+    "issueNumber": "11",
+    "title": "Μπλεκ #11",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek011.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-11"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-12",
+    "issueNumber": "12",
+    "title": "Μπλεκ #12",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek012.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-12"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-13",
+    "issueNumber": "13",
+    "title": "Μπλεκ #13",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek013.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-13"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-14",
+    "issueNumber": "14",
+    "title": "Μπλεκ #14",
+    "year": 2020,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek014.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-14"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-15",
+    "issueNumber": "15",
+    "title": "Μπλεκ #15",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek015.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-15"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-16",
+    "issueNumber": "16",
+    "title": "Μπλεκ #16",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek016.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-16"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-17",
+    "issueNumber": "17",
+    "title": "Μπλεκ #17",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek017_new.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-17"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-18",
+    "issueNumber": "18",
+    "title": "Μπλεκ #18",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek018.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-18"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-19",
+    "issueNumber": "19",
+    "title": "Μπλεκ #19",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek019.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-19"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-20",
+    "issueNumber": "20",
+    "title": "Μπλεκ #20",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek020.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-20"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-21",
+    "issueNumber": "21",
+    "title": "Μπλεκ #21",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek021.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-21"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-22",
+    "issueNumber": "22",
+    "title": "Μπλεκ #22",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek022.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-22"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-23",
+    "issueNumber": "23",
+    "title": "Μπλεκ #23",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek023.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-23"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-24",
+    "issueNumber": "24",
+    "title": "Μπλεκ #24",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek024.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-24"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-25",
+    "issueNumber": "25",
+    "title": "Μπλεκ #25",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek025.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-25"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-26",
+    "issueNumber": "26",
+    "title": "Μπλεκ #26",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek026.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-26"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-27",
+    "issueNumber": "27",
+    "title": "Μπλεκ #27",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek027.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-27"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-28",
+    "issueNumber": "28",
+    "title": "Μπλεκ #28",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek028.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-28"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-29",
+    "issueNumber": "29",
+    "title": "Μπλεκ #29",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek029.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-29"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-30",
+    "issueNumber": "30",
+    "title": "Μπλεκ #30",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek030.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-30"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-31",
+    "issueNumber": "31",
+    "title": "Μπλεκ #31",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek031.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-31"
+  },
+  {
+    "seriesKey": "blek",
+    "catalogKey": "blek-32",
+    "issueNumber": "32",
+    "title": "Μπλεκ #32",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek032_panthiras.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/mplek/mplek-no-32"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-90",
+    "issueNumber": "90",
+    "title": "Κόμιξ # 90 Σύμβολο κύρους",
+    "year": 2021,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2021/12/swm-Cx90960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561649492/komix-90-symvolo-kyroys/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-91",
+    "issueNumber": "91",
+    "title": "Κόμιξ # 91 Ο θησαυρός του Μάρκο Πόλο",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/01/swm-Cx91-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561691108/komix-91-o-thisayros-toy-marko-polo/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-92",
+    "issueNumber": "92",
+    "title": "Κόμιξ # 92 Το γυάλινο θησαυροφυλάκιο",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/01/Disney_Febrouary_1920x1200.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561736720/komix-92-to-gyalino-thisayrofylakio/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-93",
+    "issueNumber": "93",
+    "title": "Κόμιξ # 93 Το χαμένο στέμμα του Τζένγκις Χαν",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/04/swm-Cx93-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561789232/komix-93-to-chameno-stemma-toy-tzengkis-chan/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-94",
+    "issueNumber": "94",
+    "title": "Κόμιξ # 94 Τα γιγάντια μυρμήγκια",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/04/Cx94_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561834619/komix-94-ta-gigantia-myrmigkia/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-95",
+    "issueNumber": "95",
+    "title": "Κόμιξ # 95 Τα ρομπότ ληστές",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/05/swm-Cx95-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561886492/komix-95-ta-rompot-listes/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-96",
+    "issueNumber": "96",
+    "title": "Κόμιξ # 96 Αστυνόμος για μια μέρα",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/07/swm-Cx96-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561936502/komix-96-astynomos-gia-mia-mera/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-97",
+    "issueNumber": "97",
+    "title": "Κόμιξ # 97 Το σαφάρι του δισεκατομμυρίου",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/08/swm-Cx97-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561983851/komix-97-to-safari-toy-disekatommyrioy/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-98",
+    "issueNumber": "98",
+    "title": "Κόμιξ # 98 Μια μυρωδάτη ιστορία",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/09/swm-Cx98-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562022242/komix-98-mia-myrodati-istoria/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-99",
+    "issueNumber": "99",
+    "title": "Κόμιξ # 99 Ο διαπλανητικός ταχυδρόμος",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/09/Disney-September-1920x1200-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562065838/komix-99-o-diaplanitikos-tachydromos/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-100",
+    "issueNumber": "100",
+    "title": "Κόμιξ # 100 Κολλημένος με το χρήμα",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/10/swm-Cx100_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562112011/komix-100-kollimenos-me-to-chrima/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-101",
+    "issueNumber": "101",
+    "title": "Κόμιξ # 101 Το χρυσό έλατο",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/12/Cx101_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562174270/komix-101-to-chryso-elato/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-102",
+    "issueNumber": "102",
+    "title": "Κόμιξ # 102 Χριστούγεννα στο βουνό της αρκούδας",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/12/swm-Cx102_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562189039/komix-102-christoygenna-sto-voyno-tis-arkoydas/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-103",
+    "issueNumber": "103",
+    "title": "Κόμιξ # 103 Το ολόχρυσο φεγγάρι",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/01/swm-Cx103_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562249318/komix-103-to-olochryso-feggari/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-104",
+    "issueNumber": "104",
+    "title": "Κόμιξ # 104 Ζόρικοι ενοικιαστές",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/02/swm-Cx104_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562296139/komix-104-zorikoi-enoikiastes/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-105",
+    "issueNumber": "105",
+    "title": "Κόμιξ # 105 Ο χρυσός γίγας",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/03/swm-Cx105_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562342903/komix-105-o-chrysos-gigas/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-106",
+    "issueNumber": "106",
+    "title": "Κόμιξ # 106 Ο Σερίφης της μαύρης κοιλάδας",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/04/Disney_Calendar_April_1920x1200.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562394488/komix-106-o-serifis-tis-mayris-koiladas/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-107",
+    "issueNumber": "107",
+    "title": "Κόμιξ # 107 Ο κόσμος των εξτρήμ σπορ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/05/swm-Cx107_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562447723/komix-107-o-kosmos-ton-extrim-spor/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-108",
+    "issueNumber": "108",
+    "title": "Κόμιξ # 108 Ο ιπτάμενος Ολλανδός",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/06/Cx108_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562492810/komix-108-o-iptamenos-ollandos/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-109",
+    "issueNumber": "109",
+    "title": "Κόμιξ # 109 Τα πιο ψιλά απ’ τα ψιλά",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/07/swm-Cx109_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562547326/komix-109-ta-pio-psila-kai-ap-ta-psila/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-110",
+    "issueNumber": "110",
+    "title": "Κόμιξ # 110 ΜΕΣΑ ΣΤΑ ΟΝΕΙΡΑ ΤΩΝ ΑΛΛΩΝ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/08/swm-Cx110_1920x1080-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562579012/komix-110-mesa-sta-oneira-ton-allon/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-111",
+    "issueNumber": "111",
+    "title": "Κόμιξ # 111 Ο ΚΟΣΜΟΣ ΤΟΥ ΜΕΛΛΟΝΤΟΣ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/09/swm-Cx111_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562609837/komix-111-o-kosmos-toy-mellontos/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-112",
+    "issueNumber": "112",
+    "title": "Κόμιξ # 112 ΤΕΡΑΣ ΓΙΑ ΜΙΑ ΜΕΡΑ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/10/swm-Cx112_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562652677/komix-112-teras-gia-mia-mera/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-113",
+    "issueNumber": "113",
+    "title": "Κόμιξ #113 Η ΣΥΜΜΟΡΙΑ ΤΟΥ ΑΗ ΒΑΣΙΛΗ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/swm-Cx113_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562703722/komix-113-i-symmoria-toy-ai-vasili/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-114",
+    "issueNumber": "114",
+    "title": "Κόμιξ #114 Το κυνήγι του πολύτιμου αυγού",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/swm-Cx114_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562757371/komix-114-to-kynigi-toy-polytimoy-aygoy/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-115",
+    "issueNumber": "115",
+    "title": "Κόμιξ #115 Ο ΘΗΣΑΥΡΟΣ ΤΟΥ ΚΟΡΝΗΛΙΟΥ ΚΟΥΤ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/01/Disney_Calendar_January_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562813765/komix-115-o-thisayros-toy-kornilioy-koyt/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-116",
+    "issueNumber": "116",
+    "title": "Κόμιξ #116 Ο ΚΟΣΜΟΣ ΤΟΥ ΘΗΣΑΥΡΟΦΥΛΑΚΙΟΥ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/02/swm-Cx116_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562866973/komix-116-o-kosmos-toy-thisayrofylakioy/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-117",
+    "issueNumber": "117",
+    "title": "Κόμιξ #117 ΤΟ ΠΡΩΤΟ ΤΕΥΧΟΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/Cx117_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562917196/komix-117-to-proto-teychos/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-118",
+    "issueNumber": "118",
+    "title": "Κόμιξ #118 ΠΑΣΧΑΛΙΝΑ ΑΥΓΑ ΚΑΙ ΕΞΩΓΗΙΝΑ ΤΕΡΑΤΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/swm-Cx118_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562953193/komix-118-paschalina-ayga-kai-exogiina-terata/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-119",
+    "issueNumber": "119",
+    "title": "Κόμιξ #119 ΤΟ ΠΡΟΤΕΛΕΥΤΑΙΟ ΜΠΑΛΑΜΠΟΥ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/05/swm-Cx119_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563007286/komix-119-to-proteleytaio-mpalampoy/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-120",
+    "issueNumber": "120",
+    "title": "Κόμιξ #120 ΤΟ ΕΞΥΠΝΟ ΡΑΒΔΙ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/06/swm-Cx120_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563059669/komix-120-to-exypno-ravdi/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-121",
+    "issueNumber": "121",
+    "title": "Κόμιξ #121 ΤΟ ΘΑΛΑΣΣΙΟ ΤΕΡΑΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/swm-Cx121_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563105749/komix-121-to-thalassio-teras/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-122",
+    "issueNumber": "122",
+    "title": "Κόμιξ #122 ΕΝΑ ΒΗΜΑ ΜΠΡΟΣΤΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/swm-Cx122_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563151205/komix-122-ena-vima-mprosta/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-123",
+    "issueNumber": "123",
+    "title": "Κόμιξ #123 ΤΥΧΕΡΟΣ ΓΙΑ ΜΙΑ ΜΕΡΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/08/swm-Cx123_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563189968/komix-123-tycheros-gia-mia-mera/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-124",
+    "issueNumber": "124",
+    "title": "Κόμιξ #124 ΤΟ ΚΥΝΗΓΙ ΤΗΣ ΔΕΚΑΡΑΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/10/Disney_Calendar_October_1920x1080-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563265184/komix-124-to-kynigi-tis-dekaras/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-126",
+    "issueNumber": "126",
+    "title": "Κόμιξ #126 Ο ΠΕΤΡΙΝΟΣ ΤΡΑΓΟΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/12/Cx126_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563354110/komix-126-o-petrinos-tragos/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-128",
+    "issueNumber": "128",
+    "title": "Κόμιξ #128 ΤΡΑΙΝΑ ΚΑΙ ΙΠΤΑΜΕΝΕΣ ΣΚΟΥΠΕΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/02/swm-Cx128_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563456101/komix-128-traina-kai-iptamenes-skoypes/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-129",
+    "issueNumber": "129",
+    "title": "Κόμιξ #129 Η ΔΥΝΑΜΗ ΤΗΣ ΗΛΙΑΚΗΣ ΕΝΕΡΓΕΙΑΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/03/swm-Cx129_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563497327/komix-129-i-dynami-tis-iliakis-energeias/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-130",
+    "issueNumber": "130",
+    "title": "Κόμιξ #130 ΔΙΑΧΕΙΡΙΣΗ ΘΥΜΟΥ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/swm-Cx130_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563551366/komix-130-diacheirisi-thymoy/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-131",
+    "issueNumber": "131",
+    "title": "Κόμιξ #131 ΓΕΝΝΗΜΕΝΟΣ ΤΗΝ 9η ΙΟΥΝΙΟΥ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/swm-Cx131_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563588503/komix-131-gennimenos-tin-9i-ioynioy/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-132",
+    "issueNumber": "132",
+    "title": "Κόμιξ #132 ΙΣΤΟΡΙΑ ΘΕΡΙΝΗΣ ΝΥΚΤΟΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/05/swm-Cx132_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563640538/komix-132-istoria-therinis-nyktos/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-133",
+    "issueNumber": "133",
+    "title": "Κόμιξ #133 ΔΙΑΚΟΠΕΣ ΜΕ ΓΕΥΣΗ ΣΟΚΟΛΑΤΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/07/Disney_Calendar_July_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563696014/komix-133-diakopes-me-geysi-sokolata/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-134",
+    "issueNumber": "134",
+    "title": "Κόμιξ #134 ΜΙΚΡΗ ΠΟΛΗ, ΜΕΓΑΛΟ ΤΑΛΕΝΤΟ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/08/swm-Cx134_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563745604/komix-134-mikri-poli-megalo-talento/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-135",
+    "issueNumber": "135",
+    "title": "Κόμιξ #135 Ο ΜΑΓΟΣ ΤΗΣ ΜΠΑΛΑΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/09/Cx135_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563792032/komix-135/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-137",
+    "issueNumber": "137",
+    "title": "Κόμιξ #137 ΠΑΝΗΓΥΡΙ ΣΤΗΝ ΣΕΛΗΝΗ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/11/Cx137_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563900206/komix-137-panigyri-stin-selini/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-138",
+    "issueNumber": "138",
+    "title": "Κόμιξ #138 Ο ΜΕΓΑΛΟΣ ΑΓΩΝΑΣ ΤΟΥ ΧΑΟΥΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/swm-Cx138_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563965891/komix-138-o-megalos-agonas-toy-chaoys/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-139",
+    "issueNumber": "139",
+    "title": "Κόμιξ #139 ΟΙ ΓΑΛΕΤΕΣ ΚΛΟΝΤΑΪΚ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/swm-Cx139_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563999860/komix-139-oi-galetes-klontaik/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-141",
+    "issueNumber": "141",
+    "title": "Κόμιξ #141 ΤΟ ΑΣΤΕΙΟ ΣΑΡΑΒΑΛΑΚΙ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/03/swm-Cx141_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564103912/komix-141-to-asteio-saravalaki/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-144",
+    "issueNumber": "144",
+    "title": "Κόμιξ #144 ΤΟ ΓΕΝΝΑΙΟ ΠΑΠΙ ΤΗΣ ΣΚΩΤΙΑΣ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/06/Cx144_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564262498/komix-144-to-gennaio-papi-tis-skotias/"
+  },
+  {
+    "seriesKey": "komix",
+    "catalogKey": "komix-146",
+    "issueNumber": "146",
+    "title": "Κόμιξ #146 Ο ΓΑΜΟΣ ΤΟΥ ΣΚΡΟΥΤΖ ΜΑΚ ΝΤΑΚ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/08/Cx146_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564405661/komix-146-o-gamos-toy-skroytz-mak-ntak/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-42",
+    "issueNumber": "42",
+    "title": "Μίκυ Μάους # 425 Το μυστικό του Ωκεάνιου",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/08/swm-MM425-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561991450/miky-maoys-42-to-mystiko-toy-okeanioy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-387",
+    "issueNumber": "387",
+    "title": "Μίκυ Μάους # 387 Τα λάστιχα του Ντανλοπ",
+    "year": 2021,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2021/11/Disney-November-1920x1200-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561578092/neo-teychos-miky-maoys-nees-peripeteies-293/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-388",
+    "issueNumber": "388",
+    "title": "Μίκυ Μάους # 388 Καρδιοχτύπι για έναν κινητήρα",
+    "year": 2021,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2021/11/MM388-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561591940/neo-teychos-miky-maoys-nees-peripeteies-294/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-390",
+    "issueNumber": "390",
+    "title": "Μίκυ Μάους # 390 Η ανάμνηση μιας μέρας",
+    "year": 2021,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2021/12/swm-MM390960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561618802/miky-maoys-390-i-anamnisi-mias-meras/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-391",
+    "issueNumber": "391",
+    "title": "Μίκυ Μάους # 391 Περηφάνια & Προκατάληψη",
+    "year": 2021,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2021/12/swm-391.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561621550/miky-maoys-391-perifania-amp-prokatalipsi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-392",
+    "issueNumber": "392",
+    "title": "Μίκυ Μάους # 392 Το στέμμα των επιθυμιών",
+    "year": 2021,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2021/12/swm-MM392960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561633196/miky-maoys-392-to-stemma-ton-epithymion/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-393",
+    "issueNumber": "393",
+    "title": "Μίκυ Μάους # 393 Νέα χριστουγεννιάτικη ιστορία",
+    "year": 2021,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2021/12/swm-MM393-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561639544/miky-maoys-393-nea-christoygenniatiki-istoria/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-394",
+    "issueNumber": "394",
+    "title": "Μίκυ Μάους # 394 Ανεπιθύμητη δημοτικότητα",
+    "year": 2021,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2021/12/Disney-December-1920x1200-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561644398/miky-maoys-394-anepithymiti-dimotikotita/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-395",
+    "issueNumber": "395",
+    "title": "Μίκυ Μάους # 395 Κατάσταση Πολιορκίας 1",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/01/MM395_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561655495/miky-maoys-395-katastasi-poliorkias-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-396",
+    "issueNumber": "396",
+    "title": "Μίκυ Μάους # 396 Κατάσταση Πολιορκίας 2",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/01/swm-MM396-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561655873/miky-maoys-396-katastasi-poliorkias-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-397",
+    "issueNumber": "397",
+    "title": "Μίκυ Μάους # 397 Κατάσταση Πολιορκίας 3",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/01/swm-MM397-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561673288/miky-maoys-397-katastasi-poliorkias-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-398",
+    "issueNumber": "398",
+    "title": "Μίκυ Μάους # 398 Χωρίς μάσκα",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/01/swm-MM398-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561691063/miky-maoys-398-choris-maska/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-399",
+    "issueNumber": "399",
+    "title": "Μίκυ Μάους # 399 Μια μέρα με τον Γκαστόνε",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/02/swm-MM399_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561700819/miky-maoys-399-mia-mera-me-ton-gkastone/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-400",
+    "issueNumber": "400",
+    "title": "Μίκυ Μάους # 400 Η επιστροφή της πρώην",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/02/swm-MM400-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561700840/miky-maoys-400-i-epistrofi-tis-proin/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-401",
+    "issueNumber": "401",
+    "title": "Μίκυ Μάους # 401 Η πρόκληση του Φαντομία",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/02/swm-MM401-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561723688/miky-maoys-401-i-proklisi-toy-fantomia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-402",
+    "issueNumber": "402",
+    "title": "Μίκυ Μάους # 402 Καρναβάλι στην Βενετία",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/02/MM402-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561736756/miky-maoys-402-karnavali-stin-venetia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-403",
+    "issueNumber": "403",
+    "title": "Μίκυ Μάους # 403 Επανεκκίνηση 1",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/03/MM403-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561749191/miky-maoys-403-epanekkinisi-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-405",
+    "issueNumber": "405",
+    "title": "Μίκυ Μάους # 405 Επανεκκίνηση 3",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/03/swm-MM405-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561768589/miky-maoys-405-epanekkinisi-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-406",
+    "issueNumber": "406",
+    "title": "Μίκυ Μάους # 406 Η πολύτιμη συνταγή",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/03/swm-MM406-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561777712/miky-maoys-406-i-polytimi-syntagi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-407",
+    "issueNumber": "407",
+    "title": "Μίκυ Μάους # 407 Το μυστικό του πάρκου",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/04/swm-MM407-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561792733/miky-maoys-407-to-mystiko-toy-parkoy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-408",
+    "issueNumber": "408",
+    "title": "Μίκυ Μάους # 408 Ο θησαυρός των δύο θρύλων",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/04/swm-MM408-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561796669/miky-maoys-408-o-thisayros-ton-dyo-thrylon/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-409",
+    "issueNumber": "409",
+    "title": "Μίκυ Μάους # 409 Η μαγική ομίχλη",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/04/swm-MM409-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561811543/miky-maoys-409-i-magiki-omichli/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-410",
+    "issueNumber": "410",
+    "title": "Μίκυ Μάους # 410 Βιοπλαστικοί εισβολείς από το διάστημα",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/04/MM410-960x600-1-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561821122/miky-maoys-410-vioplastikoi-eisvoleis-apo-to-diastima-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-411",
+    "issueNumber": "411",
+    "title": "Μίκυ Μάους # 411 Το δώρο της Ακαδημίας",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/04/MM411_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561834601/miky-maoys-411-to-doro-tis-akadimias/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-413",
+    "issueNumber": "413",
+    "title": "Μίκυ Μάους # 413 Η πολιτεία που ταξιδεύει 2",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/05/swm-MM413-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561852871/miky-maoys-413-i-politeia-poy-taxideyei-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-414",
+    "issueNumber": "414",
+    "title": "Μίκυ Μάους # 414 Ο ορίζοντας των γεγονότων 1",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/05/swm-MM414-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561877462/miky-maoys-414-o-orizontas-ton-gegonoton-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-415",
+    "issueNumber": "415",
+    "title": "Μίκυ Μάους # 415 Ο ορίζοντας των γεγονότων 2",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/05/swm-MM415-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561877489/miky-maoys-415-o-orizontas-ton-gegonoton-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-416",
+    "issueNumber": "416",
+    "title": "Μίκυ Μάους # 416 Ο ορίζοντας των γεγονότων 3",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/06/swm-MM416-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561891766/miky-maoys-416-o-orizontas-ton-gegonoton-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-417",
+    "issueNumber": "417",
+    "title": "Μίκυ Μάους # 417 Ο ορίζοντας των γεγονότων 4",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/06/swm-MM417-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561909742/miky-maoys-417-o-orizontas-ton-gegonoton-4/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-418",
+    "issueNumber": "418",
+    "title": "Μίκυ Μάους # 418 Ο ορίζοντας των γεγονότων 5",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/06/MM418-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561921826/miky-maoys-418-o-orizontas-ton-gegonoton-5/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-419",
+    "issueNumber": "419",
+    "title": "Μίκυ Μάους # 419 Οι πειρατές της ακτής",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/06/MM419-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561925561/miky-maoys-419-oi-peirates-tis-aktis/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-420",
+    "issueNumber": "420",
+    "title": "Μίκυ Μάους # 420 Στον δρόμο για την Δύση",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/07/swm-MM420-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561940330/miky-maoys-420-ston-dromo-gia-tin-dysi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-421",
+    "issueNumber": "421",
+    "title": "Μίκυ Μάους # 421 Οι σουλτάνοι του Σουίνγκ",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/07/swm-MM421-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561947704/miky-maoys-421-oi-soyltanoi-toy-soyingk/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-422",
+    "issueNumber": "422",
+    "title": "Μίκυ Μάους # 422 Ο θησαυρός του νησιού",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/07/swm-MM422-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561950962/miky-maoys-422-o-thisayros-toy-nisioy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-423",
+    "issueNumber": "423",
+    "title": "Μίκυ Μάους # 423 Ο γύρος των κόσμων σε 80 ημέρες",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/07/swm-MM423-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561956572/miky-maoys-423-o-gyros-ton-kosmon-se-80-imeres/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-424",
+    "issueNumber": "424",
+    "title": "Μίκυ Μάους # 424 Ο πολύτιμος λόφος",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/08/swm-MM424-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561982288/miky-maoys-424-o-polytimos-lofos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-425",
+    "issueNumber": "425",
+    "title": "Μίκυ Μάους # 425 Το μυστικό του Ωκεάνιου",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/08/Disney-August-1920x1200-2.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561991450/miky-maoys-42-to-mystiko-toy-okeanioy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-426",
+    "issueNumber": "426",
+    "title": "Μίκυ Μάους # 426 Στρατοσφαιρικές παρεμβολές",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/08/MM426-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/561991456/miky-maoys-426-stratosfairikes-paremvoles/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-427",
+    "issueNumber": "427",
+    "title": "Μίκυ Μάους # 427 Πράσινη οικονομία",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/08/swm-MM427-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562008301/miky-maoys-427-prasini-oikonomia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-428",
+    "issueNumber": "428",
+    "title": "Μίκυ Μάους # 428 Ο αραχτός αυτοκράτορας",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/08/swm-MM428-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562018906/miky-maoys-428-o-arachtos-aytokratoras/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-434",
+    "issueNumber": "434",
+    "title": "Μίκυ Μάους # 434 Ομπερον",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/10/MM434_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562077265/miky-maoys-434-omperon/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-435",
+    "issueNumber": "435",
+    "title": "Μίκυ Μάους # 435 Το κύπελο του Μοντορ 1",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/10/MM435_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562096945/miky-maoys-435-to-kypelo-toy-montor-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-436",
+    "issueNumber": "436",
+    "title": "Μίκυ Μάους # 436 Το κύπελο του Μοντορ 2",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/10/swm-MM436_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562102264/miky-maoys-436-to-kypelo-toy-montor-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-437",
+    "issueNumber": "437",
+    "title": "Μίκυ Μάους # 437 Το κύπελο του Μοντορ 3",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/10/swm-MM437_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562112032/miky-maoys-437-to-kypelo-toy-montor-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-438",
+    "issueNumber": "438",
+    "title": "Μίκυ Μάους # 438 Το κύπελο του Μοντορ 4",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/11/swm-MM438_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562137883/miky-maoys-438-to-kypelo-toy-montor-4/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-439",
+    "issueNumber": "439",
+    "title": "Μίκυ Μάους # 439 Ταξίδι στο Κλονταϊκ",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/11/swm-MM439_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562137889/miky-maoys-439-taxidi-sto-klontaik/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-440",
+    "issueNumber": "440",
+    "title": "Μίκυ Μάους # 440 Ελεύθερη πτώση",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/11/swm-MM440_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562147273/miky-maoys-440-eleytheri-ptosi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-441",
+    "issueNumber": "441",
+    "title": "Μίκυ Μάους # 441 Έλκυθρο για τρεις",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/11/Disney-November-1920x1200-2.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562159174/miky-maoys-441-elkythro-gia-treis/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-442",
+    "issueNumber": "442",
+    "title": "Μίκυ Μάους # 442 Η Δίνη του χρόνου",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/12/MM442_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562174291/miky-maoys-442-i-dini-toy-chronoy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-443",
+    "issueNumber": "443",
+    "title": "Μίκυ Μάους # 443 Αναδρομική δυστοπία",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/12/swm-MM443_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562182091/miky-maoys-443-anadromiki-dystopia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-444",
+    "issueNumber": "444",
+    "title": "Μίκυ Μάους # 444 Το ντέμπυ των τεράτων",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/12/swm-MM444_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562188994/miky-maoys-444-to-ntempy-ton-teraton/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-445",
+    "issueNumber": "445",
+    "title": "Μίκυ Μάους # 445 Χριστούγεννα στην Άβυσσο",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/12/swm-MM445_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562189033/miky-maoys-445-christoygenna-stin-avysso/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-446",
+    "issueNumber": "446",
+    "title": "Μίκυ Μάους # 446 Πρωτοχρονιάτικη μονομαχία",
+    "year": 2022,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2022/12/swm-MM446_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562189171/miky-maoys-446-protochroniatiki-monomachia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-447",
+    "issueNumber": "447",
+    "title": "Μίκυ Μάους # 447 Μικρές Κυρίες 1",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/01/swm-MM447_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562212361/miky-maoys-447-mikres-kyries-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-448",
+    "issueNumber": "448",
+    "title": "Μίκυ Μάους # 448 Μικρές Κυρίες 2",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/01/swm-MM448_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562224883/miky-maoys-448-mikres-kyries-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-449",
+    "issueNumber": "449",
+    "title": "Μίκυ Μάους # 449 Μικρές Κυρίες 3",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/01/MM449_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562224919/miky-maoys-449-mikres-kyries-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-450",
+    "issueNumber": "450",
+    "title": "Μίκυ Μάους # 450 Μικρές Κυρίες 4",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/01/swm-MM450_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562249288/miky-maoys-450-mikres-kyries-4/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-451",
+    "issueNumber": "451",
+    "title": "Μίκυ Μάους # 451 Εγώ και η Μίννι",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/02/swm-MM451_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562261069/miky-maoys-451-ego-kai-i-minni/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-452",
+    "issueNumber": "452",
+    "title": "Μίκυ Μάους # 452 Το κροκοδειλάκι του Αγίου Βαλεντίνου",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/02/swm-MM452_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562280071/miky-maoys-452-to-krokodeilaki-toy-agioy-valentinoy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-453",
+    "issueNumber": "453",
+    "title": "Μίκυ Μάους # 453 Βρώμικο παιχνίδι",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/02/swm-MM453_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562281742/miky-maoys-453-vromiko-paichnidi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-454",
+    "issueNumber": "454",
+    "title": "Μίκυ Μάους # 454 Η ημέρα του μαραθωνίου",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/02/swm-MM454_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562296130/miky-maoys-454-i-imera-toy-marathonioy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-455",
+    "issueNumber": "455",
+    "title": "Μίκυ Μάους # 455 Η προφητεία των Σαυροτέκων",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/02/Disney-Calendar-February-1920x1200-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562300411/miky-maoys-455-i-profiteia-ton-sayrotekon/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-456",
+    "issueNumber": "456",
+    "title": "Μίκυ Μάους # 456 Το σούπερ τουρνουά",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/03/MM456_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562320235/miky-maoys-456-to-soyper-toyrnoya/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-457",
+    "issueNumber": "457",
+    "title": "Μίκυ Μάους # 457 Ο ηρωικός ποδηλάτης",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/03/MM457_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562320259/miky-maoys-457-o-iroikos-podilatis/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-458",
+    "issueNumber": "458",
+    "title": "Μίκυ Μάους # 458 Το μεγάλο κύμα",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/03/swm-MM458_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562339828/miky-maoys-458-to-megalo-kyma/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-459",
+    "issueNumber": "459",
+    "title": "Μίκυ Μάους # 459 Οι κάρτες των πρωταθλητών",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/03/swm-MM459_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562342885/miky-maoys-459-oi-kartes-ton-protathliton/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-460",
+    "issueNumber": "460",
+    "title": "Μίκυ Μάους # 460 Η σκοτεινή προφητεία",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/04/swm-MM460_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562358857/miky-maoys-460-i-skoteini-profiteia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-461",
+    "issueNumber": "461",
+    "title": "Μίκυ Μάους # 461 Το βουνό της φωτιάς",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/04/swm-MM461_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562367278/miky-maoys-461-to-voyno-tis-fotias/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-462",
+    "issueNumber": "462",
+    "title": "Μίκυ Μάους # 462 Το βάρος της αλήθειας",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/04/swm-MM462_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562381906/miky-maoys-462-to-varos-tis-alitheias/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-463",
+    "issueNumber": "463",
+    "title": "Μίκυ Μάους # 463 Η ανεμοδαρμένη κορυφή",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/04/swm-MM463_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562394440/miky-maoys-463-i-anemodarmeni-koryfi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-464",
+    "issueNumber": "464",
+    "title": "Μίκυ Μάους # 464 Το ορυχείο του Ερεβους",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/05/MM464_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562409971/miky-maoys-464-to-orycheio-toy-erevoys/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-465",
+    "issueNumber": "465",
+    "title": "Μίκυ Μάους # 465 Το νησί των εξόριστων",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/05/MM465_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562410001/miky-maoys-465-to-nisi-ton-exoriston/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-466",
+    "issueNumber": "466",
+    "title": "Μίκυ Μάους # 466 Σύγκρουση τιτάνων",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/05/swm-MM466_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562436338/miky-maoys-466-sygkroysi-titanon/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-467",
+    "issueNumber": "467",
+    "title": "Μίκυ Μάους # 467 Το παπί χωρίς παρελθόν",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/05/swm-MM467_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562445578/miky-maoys-467-to-papi-choris-parelthon/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-468",
+    "issueNumber": "468",
+    "title": "Μίκυ Μάους # 468 Μια συνηθισμένη μέρα του Ντόναλντ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/06/swm-MM468_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562454269/miky-maoys-468-mia-synithismeni-mera-toy-ntonalnt/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-469",
+    "issueNumber": "469",
+    "title": "Μίκυ Μάους # 469 Τα ταξίδια του Οδυσσέα",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/06/swm-MM469-960x600-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562457764/miky-maoys-469-ta-taxidia-toy-odyssea/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-470",
+    "issueNumber": "470",
+    "title": "Μίκυ Μάους # 470 Η νύχτα των πετραδιών",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/06/swm-MM470_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562478665/miky-maoys-470-i-nychta-ton-petradion/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-471",
+    "issueNumber": "471",
+    "title": "Μίκυ Μάους # 471 Οι δύο εκδικητές",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/05/Disney_Calendar_June_1920x12001.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562492831/miky-maoys-471-oi-dyo-ekdikites/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-472",
+    "issueNumber": "472",
+    "title": "Μίκυ Μάους # 472 Η έβδομη Τέχνη",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/06/MM472_960x600.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562492834/miky-maoys-472-i-evdomi-techni/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-473",
+    "issueNumber": "473",
+    "title": "Μίκυ Μάους # 473 Ηρωικά όνειρα",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/07/swm-MM473_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562524364/miky-maoys-473-iroika-oneira/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-474",
+    "issueNumber": "474",
+    "title": "Μίκυ Μάους # 474 Όλα αυτά που θα συμβούν αύριο – πρόλογος",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/07/swm-MM474_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562524373/miky-maoys-474-ola-ayta-poy-tha-symvoyn-ayrio-prologos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-475",
+    "issueNumber": "475",
+    "title": "Μίκυ Μάους # 475 Όλα αυτά που θα συμβούν αύριο – Η αρχή",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/07/swm-MM475_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562524409/miky-maoys-475-ola-ayta-poy-tha-symvoyn-ayrio-i-archi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-476",
+    "issueNumber": "476",
+    "title": "Μίκυ Μάους # 476",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/07/swm-MM476_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562543516/miky-maoys-476-ola-ayta-poy-tha-symvoyn-ayrio/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-477",
+    "issueNumber": "477",
+    "title": "Μίκυ Μάους # 477 ΑΡΕΝΑ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/08/swm-MM477_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562554343/miky-maoys-477-arena/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-478",
+    "issueNumber": "478",
+    "title": "Μίκυ Μάους # 478 ΑΝΔΡΟΕΙΔΗ 1",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/08/swm-MM478_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562563739/miky-maoys-478-androeidi-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-479",
+    "issueNumber": "479",
+    "title": "Μίκυ Μάους # 479 ΑΝΔΡΟΕΙΔΗ 2",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/08/Disney_Calendar_August_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562571881/miky-maoys-479-androeidi-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-480",
+    "issueNumber": "480",
+    "title": "Μίκυ Μάους # 480 ΑΝΔΡΟΕΙΔΗ 3",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/08/MM480_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562578994/miky-maoys-480-androeidi-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-481",
+    "issueNumber": "481",
+    "title": "Μίκυ Μάους # 481 ΤΟ ΚΟΥΤΙ ΤΩΝ ΑΝΑΜΝΗΣΕΩΝ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/09/MM481_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562599673/miky-maoys-481-to-koyti-ton-anamniseon/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-482",
+    "issueNumber": "482",
+    "title": "Μίκυ Μάους # 482 Ο ΘΗΣΑΥΡΟΣ ΤΟΥ ΠΑΛΙΟΥ ΔΕΝΤΡΟΥ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/09/swm-MM482_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562603552/miky-maoys-482-o-thisayros-toy-palioy-dentroy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-483",
+    "issueNumber": "483",
+    "title": "Μίκυ Μάους # 483 H ΠΗΓΗ ΤΗΣ ΑΙΩΝΙΑΣ ΝΙΟΤΗΣ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/09/swm-MM483_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562609699/miky-maoys-483-h-pigi-tis-aionias-niotis/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-484",
+    "issueNumber": "484",
+    "title": "Μίκυ Μάους # 484 ΑΠΕΙΛΗ ΑΠΟ ΤΟ ΜΕΛΛΟΝ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/09/swm-MM484_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562609813/miky-maoys-484-apeili-apo-to-mellon/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-485",
+    "issueNumber": "485",
+    "title": "Μίκυ Μάους # 485 ΤΟ ΣΠΙΤΙ ΤΩΝ ΦΑΝΤΑΣΜΑΤΩΝ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/09/swm-MM485_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562609831/miky-maoys-485-to-spiti-ton-fantasmaton/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-486",
+    "issueNumber": "486",
+    "title": "Μίκυ Μάους # 486 Ο ΚΟΜΗΣ ΤΟΥ ΝΤΑΚΤΟΝ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/10/swm-MM486_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562652572/miky-maoys-486-o-komis-toy-ntakton/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-487",
+    "issueNumber": "487",
+    "title": "Μίκυ Μάους # 487 ΤΟ ΜΠΑΣΤΟΥΝΙ ΤΟΥ ΝΤΑΚΜΑΝΤΟΥ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/09/Disney_Calendar_September_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562652599/miky-maoys-487-to-mpastoyni-toy-ntakmantoy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-488",
+    "issueNumber": "488",
+    "title": "Μίκυ Μάους # 488 Ο ΕΦΙΑΛΤΗΣ ΤΟΥ ΜΙΣΤΕΡ ΒΕΡΤΙΓΚΟ 1",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/10/MM488_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562652614/miky-maoys-488-o-efialtis-toy-mister-vertigko-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-489",
+    "issueNumber": "489",
+    "title": "Μίκυ Μάους # 489 Ο ΕΦΙΑΛΤΗΣ ΤΟΥ ΜΙΣΤΕΡ ΒΕΡΤΙΓΚΟ 2",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/10/swm-MM489_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562652671/miky-maoys-489-o-efialtis-toy-mister-vertigko-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-490",
+    "issueNumber": "490",
+    "title": "Μίκυ Μάους #490 ΤΟ ΦΙΛΟΤΕΛΙΚΟ ΜΥΣΤΗΡΙΟ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/swm-MM490_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562703608/miky-maoys-490-to-filoteliko-mystirio/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-491",
+    "issueNumber": "491",
+    "title": "Μίκυ Μάους #491 ΤΡΕΙΣ ΠΑΠΙΕΣ ΑΚΑΤΑΜΑΧΗΤΕΣ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/swm-MM491_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562703632/miky-maoys-491-treis-papies-akatamachites/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-492",
+    "issueNumber": "492",
+    "title": "Μίκυ Μάους #492 ΧΡΟΝΙΑ ΠΟΛΛΑ ΜΙΚΥ!",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/swm-MM492_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562703662/miky-maoys-492-chronia-polla-miky/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-493",
+    "issueNumber": "493",
+    "title": "Μίκυ Μάους #493 ΤΟ ΜΥΣΤΗΡΙΩΔΕΣ ΥΦΑΣΜΑ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/swm-MM493_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562703710/miky-maoys-493-to-mystiriodes-yfasma/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-494",
+    "issueNumber": "494",
+    "title": "Μίκυ Μάους #494 Η ΕΜΦΑΝΙΣΗ ΜΕΤΡΑΕΙ!",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/Disney_Calendar_December_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562757350/miky-maoys-494-i-emfanisi-metraei/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-495",
+    "issueNumber": "495",
+    "title": "Μίκυ Μάους #495 Η ΠΟΙΗΤΙΚΗ ΣΠΙΘΑ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/MM495_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562757356/miky-maoys-495-i-poiitiki-spitha/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-496",
+    "issueNumber": "496",
+    "title": "Μίκυ Μάους #496 Πεπρωμένο",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/MM496_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562757452/miky-maoys-496-pepromeno/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-497",
+    "issueNumber": "497",
+    "title": "Μίκυ Μάους #497 ΚΛΟΝΤΑΪΚ",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/swm-MM497_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562757500/miky-maoys-497-klontaik/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-498",
+    "issueNumber": "498",
+    "title": "Μίκυ Μάους #498 2024 Καλή Χρονιά!",
+    "year": 2023,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2023/11/swm-MM498_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562757512/miky-maoys-498-2024-kali-chronia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-499",
+    "issueNumber": "499",
+    "title": "Μίκυ Μάους #499 ΤΑ ΧΡΥΣΟΦΟΡΑ ΑΛΑΤΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/01/swm-MM499_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562813660/miky-maoys-499-ta-chrysofora-alata/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-500",
+    "issueNumber": "500",
+    "title": "Μίκυ Μάους #500 500 ΤΕΥΧΗ ΜΙΚΥ ΜΑΟΥΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/01/swm-MM500_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562813681/miky-maoys-500-500-teychi-miky-maoys/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-501",
+    "issueNumber": "501",
+    "title": "Μίκυ Μάους #501 Ο ΜΕΤΕΩΡΙΤΗΣ ΤΗΣ ΣΥΜΦΙΛΙΩΣΗΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/01/swm-MM501_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562813702/miky-maoys-501-o-meteoritis-tis-symfiliosis/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-502",
+    "issueNumber": "502",
+    "title": "Μίκυ Μάους #502 ΤΟ ΜΕΓΑΛΟ ΤΕΙΧΟΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/01/swm-MM502_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562813732/miky-maoys-502-to-megalo-teichos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-503",
+    "issueNumber": "503",
+    "title": "Μίκυ Μάους #503 Ο ΨΕΥΤΙΚΟΣ ΠΑΝΗΤΗΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/02/MM503_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562866874/miky-maoys-503-o-pseytikos-panitis/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-504",
+    "issueNumber": "504",
+    "title": "Μίκυ Μάους #504 ΤΑ ΣΤΟΡΥ ΤΟΥ ΒΑΛΕΝΤΙΝΟΥ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/02/MM504_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562866892/miky-maoys-504-ta-story-toy-valentinoy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-505",
+    "issueNumber": "505",
+    "title": "Μίκυ Μάους #505 Ο ΘΗΣΑΥΡΟΣ ΤΗΣ ΒΙΛΑΣ ΤΩΝ ΡΟΔΩΝ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/02/swm-MM505_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562866919/miky-maoys-505-o-thisayros-tis-vilas-ton-rodon/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-506",
+    "issueNumber": "506",
+    "title": "Μίκυ Μάους #506 Ο ΚΑΤΑΚΤΗΤΗΣ ΑΠΟ ΤΟΝ ΒΟΡΡΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/02/swm-MM506_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562866970/miky-maoys-506-o-kataktitis-apo-ton-vorra/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-507",
+    "issueNumber": "507",
+    "title": "Μίκυ Μάους #507 ΤΟ ΑΓΝΩΣΤΟ ΣΤΟΙΧΕΙΟ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/swm-MM507_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562917094/miky-maoys-507-to-agnosto-stoicheio/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-508",
+    "issueNumber": "508",
+    "title": "Μίκυ Μάους #508 ΕΠΑΓΓΕΛΜΑ ΡΕΠΟΡΤΕΡ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/swm-MM508_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562917130/miky-maoys-508-epaggelma-reporter/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-509",
+    "issueNumber": "509",
+    "title": "Μίκυ Μάους #509 Η ΜΕΓΑΛΗ ΠΑΡΕΛΑΣΗ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/swm-MM509_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562917160/miky-maoys-509-i-megali-parelasi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-510",
+    "issueNumber": "510",
+    "title": "Μίκυ Μάους #510 ΔΙΚΑΙΟΣΥΝΗ ΓΙΑ ΟΛΟΥΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/Disney_Calendar_March_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562917178/miky-maoys-510-dikaiosyni-gia-oloys/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-511",
+    "issueNumber": "511",
+    "title": "Μίκυ Μάους #511 ΣΥΝΕΝΤΕΥΞΗ ΖΩΗΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/MM511_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562917187/miky-maoys-511-synenteyxi-zois/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-512",
+    "issueNumber": "512",
+    "title": "Μίκυ Μάους #512 ΕΠΙΧΕΙΡΗΣΗ ΣΑΒΟΥΑΡ ΒΙΒΡ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/swm-MM512_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562953064/miky-maoys-512-epicheirisi-savoyar-vivr/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-513",
+    "issueNumber": "513",
+    "title": "Μίκυ Μάους #513 ΔΙΑΣΤΗΜΙΚΗ ΚΑΤΑΔΙΩΞΗ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/swm-MM513_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562953100/miky-maoys-513-diastimiki-katadioxi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-514",
+    "issueNumber": "514",
+    "title": "Μίκυ Μάους #514 ΦΑΝΤΟΜΛΑΝΤ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/swm-MM514_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562953124/miky-maoys-514-fantomlant/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-515",
+    "issueNumber": "515",
+    "title": "Μίκυ Μάους #515 ΑΚΑΤΑΜΑΧΗΤΗ ΠΕΡΓΑΜΗΝΗ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/03/swm-MM515_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/562953175/miky-maoys-515-akatamachiti-pergamini/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-516",
+    "issueNumber": "516",
+    "title": "Μίκυ Μάους #516 ΤΟ ΜΥΣΤΗΡΙΟ ΤΟΥ ΑΚΟΥΑΜΑΡΙΝ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/05/swm-MM516_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563007217/miky-maoys-516-to-mystirio-toy-akoyamarin/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-517",
+    "issueNumber": "517",
+    "title": "Μίκυ Μάους #517 ΟΙ ΠΕΡΙΠΕΤΕΙΕΣ ΕΝΟΣ ΑΤΡΟΜΗΤΟΥ ΠΑΠΙΟΥ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/05/swm-MM517_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563007226/miky-maoys-517-oi-peripeteies-enos-atromitoy-papioy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-518",
+    "issueNumber": "518",
+    "title": "Μίκυ Μάους #518 ΑΙΧΜΑΛΩΤΟΣ ΣΤΗΝ ΕΡΗΜΟ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/05/Disney_Calendar_May_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563007244/miky-maoys-518-aichmalotos-stin-erimo/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-519",
+    "issueNumber": "519",
+    "title": "Μίκυ Μάους #519 ΠΙΣΩ ΑΠΟ ΤΗΝ ΜΑΣΚΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/05/MM519_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563007268/miky-maoys-519-piso-apo-tin-maska/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-520",
+    "issueNumber": "520",
+    "title": "Μίκυ Μάους #520 ΕΠΕΝΔΥΣΗ ΣΤΗΝ ΦΙΛΟΞΕΝΙΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/05/MM520_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563007304/miky-maoys-520-ependysi-stin-filoxenia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-521",
+    "issueNumber": "521",
+    "title": "Μίκυ Μάους #521 ΝΤΟΝΑΛΝΤ ΕΝΑΝΤΙΟΝ ΝΤΟΝΑΛΝΤ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/06/swm-MM521_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563059519/miky-maoys-521-ntonalnt-enantion-ntonalnt/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-522",
+    "issueNumber": "522",
+    "title": "Μίκυ Μάους #522 ΚΙ ΕΤΣΙ ΑΡΧΙΣΑΝ ΟΛΑ!",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/06/swm-MM522_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563059540/miky-maoys-522-ki-etsi-archisan-ola/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-523",
+    "issueNumber": "523",
+    "title": "Μίκυ Μάους #523 ΤΟ ΕΒΔΟΜΟ ΚΟΡΑΚΙ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/06/swm-MM523_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563059618/miky-maoys-523-to-evdomo-koraki/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-524",
+    "issueNumber": "524",
+    "title": "Μίκυ Μάους #524 ΤΟ ΜΥΣΤΙΚΟ ΤΟΥ ΕΞΕΡΕΥΝΗΤΗ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/06/swm-MM524_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563059639/miky-maoys-524-to-mystiko-toy-exereyniti/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-525",
+    "issueNumber": "525",
+    "title": "Μίκυ Μάους #525 Ο ΘΗΣΑΥΡΟΣ ΤΟΥ ΟΝΕΙΡΟΥ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/swm-MM525_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563105653/miky-maoys-525-o-thisayros-toy-oneiroy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-526",
+    "issueNumber": "526",
+    "title": "Μίκυ Μάους #526 ΚΑΣΤΡΟ ΣΤΗΝ ΣΕΛΗΝΗ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/Disney_Calendar_July_1920x1080-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563105668/miky-maoys-526/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-527",
+    "issueNumber": "527",
+    "title": "Μίκυ Μάους #527 ΚΑΣΤΡΟ ΣΤΗΝ ΣΕΛΗΝΗ 2",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/MM527_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563105695/miky-maoys-527-kastro-stin-selini-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-528",
+    "issueNumber": "528",
+    "title": "Μίκυ Μάους #528 Η ΛΥΣΗ ΤΟΥ ΜΥΣΤΗΡΙΟΥ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/swm-MM528_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563105737/miky-maoys-528-i-lysi-toy-mystirioy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-529",
+    "issueNumber": "529",
+    "title": "Μίκυ Μάους #529  Η ΤΕΛΕΥΤΑΙΑ ΠΑΡΑΛΙΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/swm-MM529_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563150920/miky-maoys-529-i-teleytaia-paralia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-530",
+    "issueNumber": "530",
+    "title": "Μίκυ Μάους #530 ΚΑΛΟΚΑΙΡΙΝΗ ΓΚΡΙΝΙΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/swm-MM530_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563150935/miky-maoys-530-kalokairini-gkrinia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-531",
+    "issueNumber": "531",
+    "title": "Μίκυ Μάους #531 ΜΕΤΑΔΟΤΙΚΗ ΠΡΟΣΦΟΡΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/swm-MM531_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563150971/miky-maoys-531-metadotiki-prosfora/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-532",
+    "issueNumber": "532",
+    "title": "Μίκυ Μάους #532 ΤΡΕΙΣ ΚΑΙ ΜΟΝΑΔΙΚΟΙ 1",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/07/swm-MM532_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563151193/miky-maoys-532-treis-kai-monadikoi-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-533",
+    "issueNumber": "533",
+    "title": "Μίκυ Μάους #533 ΤΡΕΙΣ ΚΑΙ ΜΟΝΑΔΙΚΟΙ 2",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/08/Disney_Calendar_September_1920x1080-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563151217/miky-maoys-533-treis-kai-monadikoi-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-534",
+    "issueNumber": "534",
+    "title": "Μίκυ Μάους #534 ΤΡΕΙΣ ΚΑΙ ΜΟΝΑΔΙΚΟΙ 3",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/08/MM534_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563189887/miky-maoys-534-treis-kai-monadikoi-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-535",
+    "issueNumber": "535",
+    "title": "Μίκυ Μάους #535 ΤΡΕΙΣ ΚΑΙ ΜΟΝΑΔΙΚΟΙ 4",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/08/MM535_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563189902/miky-maoys-535-treis-kai-monadikoi-4/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-536",
+    "issueNumber": "536",
+    "title": "Μίκυ Μάους #536 Η ΑΚΤΙΝΟΒΟΛΙΑ ΤΗΣ ΧΑΡΑΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/08/swm-MM536_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563189923/miky-maoys-536-i-aktinovolia-tis-charas/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-537",
+    "issueNumber": "537",
+    "title": "Μίκυ Μάους #537 Ο ΚΑΛΥΤΕΡΟΣ ΒΟΗΘΟΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/08/swm-MM537_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563189950/miky-maoys-537-o-kalyteros-voithos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-538",
+    "issueNumber": "538",
+    "title": "Μίκυ Μάους #538 ΚΟΚΚΙΝΑ ΦΥΛΛΑ 1",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/10/swm-MM538_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563263294/miky-maoys-538-kokkina-fylla-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-539",
+    "issueNumber": "539",
+    "title": "Μίκυ Μάους #539 ΚΟΚΚΙΝΑ ΦΥΛΛΑ 2",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/10/swm-MM539_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563265052/miky-maoys-539-kokkina-fylla-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-540",
+    "issueNumber": "540",
+    "title": "Μίκυ Μάους #540 ΚΟΚΚΙΝΑ ΦΥΛΛΑ 3",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/10/swm-MM540_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563265112/miky-maoys-540-kokkina-fylla-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-541",
+    "issueNumber": "541",
+    "title": "Μίκυ Μάους #541 ΚΟΚΚΙΝΑ ΦΥΛΛΑ 4",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/10/swm-MM541_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563265163/miky-maoys-541-kokkina-fylla-4/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-542",
+    "issueNumber": "542",
+    "title": "Μίκυ Μάους #542 19.999 ΛΕΥΓΕΣ ΚΑΤΩ ΑΠΟ ΤΗΝ ΘΑΛΑΣΣΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/11/MM542_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563301202/miky-maoys-542-19-999-leyges-kato-apo-tin-thalassa/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-543",
+    "issueNumber": "543",
+    "title": "Μίκυ Μάους #543 Η ΠΡΑΓΜΑΤΙΚΗ ΖΩΗ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/11/MM543_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563301220/miky-maoys-543-i-pragmatiki-zoi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-544",
+    "issueNumber": "544",
+    "title": "Μίκυ Μάους #544 ΗΛΙΟΘΕΡΑΠΕΙΑ ΓΝΩΣΗΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/11/swm-MM544_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563301331/miky-maoys-544-iliotherapeia-gnosis/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-545",
+    "issueNumber": "545",
+    "title": "Μίκυ Μάους #545 ΚΑΛΗ ΤΥΧΗ, ΛΙΟΥΗ!",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/11/swm-MM545_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563311633/miky-maoys-545-kali-tychi-lioyi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-546",
+    "issueNumber": "546",
+    "title": "Μίκυ Μάους #546 ΟΙ ΠΡΩΤΕΣ ΝΟΤΕΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/11/swm-MM546_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563311651/miky-maoys-546-oi-protes-notes/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-547",
+    "issueNumber": "547",
+    "title": "Μίκυ Μάους #547 ΤΟ ΜΥΣΤΙΚΟ ΤΗΣ ΜΥΣΤΙΚΗΣ ΤΑΥΤΟΤΗΤΑΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/12/swm-MM547_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563354026/miky-maoys-547-to-mystiko-tis-mystikis-taytotitas/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-548",
+    "issueNumber": "548",
+    "title": "Μίκυ Μάους #548 ΤΟ ΜΥΣΤΙΚΟ ΤΗΣ ΜΥΣΤΙΚΗΣ ΤΑΥΤΟΤΗΤΑΣ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/12/swm-MM548_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563354053/miky-maoys-548-to-mystiko-tis-mystikis-taytotitas/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-549",
+    "issueNumber": "549",
+    "title": "Μίκυ Μάους #549 ΕΠΙΣΤΡΟΦΗ ΣΤΟ ΣΠΙΤΙ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/12/swm-MM549_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563354074/miky-maoys-549-epistrofi-sto-spiti/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-550",
+    "issueNumber": "550",
+    "title": "Μίκυ Μάους #550 ΒΡΑΧΥΚΥΚΛΩΜΑ",
+    "year": 2024,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2024/12/MM550_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563354101/miky-maoys-550-vrachykykloma/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-552",
+    "issueNumber": "552",
+    "title": "Μίκυ Μάους #552 ΒΡΑΧΥΚΥΚΛΩΜΑ 3",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/01/swm-MM552_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563408650/miky-maoys-552-vrachykykloma-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-553",
+    "issueNumber": "553",
+    "title": "Μίκυ Μάους #553 ΤΟ ΤΟΥΡΝΟΥΑ ΤΩΝ ΑΣΤΕΡΩΝ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/01/swm-MM553_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563408671/miky-maoys-553-to-toyrnoya-ton-asteron/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-554",
+    "issueNumber": "554",
+    "title": "Μίκυ Μάους #554 Ο ΑΝΑΠΑΥΤΙΚΟΣ ΠΕΙΡΑΣΜΟΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/01/swm-MM554_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563408713/miky-maoys-554-o-anapaytikos-peirasmos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-555",
+    "issueNumber": "555",
+    "title": "Μίκυ Μάους #555 ΤΟ ΤΡΙΤΟ ΧΕΡΙ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/01/swm-MM555_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563408731/miky-maoys-555-to-trito-cheri/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-556",
+    "issueNumber": "556",
+    "title": "Μίκυ Μάους #556 ΕΠΙΧΕΙΡΗΣΗ ΑΛΑΣΚΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/02/swm-MM556_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563456038/miky-maoys-556-epicheirisi-alaska/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-557",
+    "issueNumber": "557",
+    "title": "Μίκυ Μάους #557 ΕΠΙΧΕΙΡΗΣΗ ΑΛΑΣΚΑ – ΤΟ ΤΕΛΟΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/02/swm-MM557_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563456044/miky-maoys-557-epicheirisi-alaska-to-telos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-558",
+    "issueNumber": "558",
+    "title": "Μίκυ Μάους #558 2000 ΦΟΙΝΙΚΕΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/02/MM558_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563456080/miky-maoys-558-2000-foinikes/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-559",
+    "issueNumber": "559",
+    "title": "Μίκυ Μάους #559 Η ΚΑΝΑΤΑ ΤΟΥ ΞΩΤΙΚΟΥ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/02/MM559_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563456092/miky-maoys-559-i-kanata-toy-xotikoy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-560",
+    "issueNumber": "560",
+    "title": "Μίκυ Μάους #560 Ο ΠΡΩΤΟΣ ΘΡΙΑΜΒΟΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/03/swm-MM560_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563497264/miky-maoys-560-o-protos-thriamvos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-561",
+    "issueNumber": "561",
+    "title": "Μίκυ Μάους #561 ΤΟ ΦΩΣ ΤΟΥ ΔΙΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/03/swm-MM561_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563497273/miky-maoys-561-to-fos-toy-dia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-562",
+    "issueNumber": "562",
+    "title": "Μίκυ Μάους #562 Η ΝΥΧΤΑ ΤΗΣ ΑΔΕΛΦΟΤΗΤΑΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/03/swm-MM562_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563497306/miky-maoys-562-i-nychta-tis-adelfotitas/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-563",
+    "issueNumber": "563",
+    "title": "Μίκυ Μάους #563 Η ΣΚΟΤΕΙΝΗ ΠΛΕΥΡΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/03/swm-MM563_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563497315/miky-maoys-563-i-skoteini-pleyra/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-564",
+    "issueNumber": "564",
+    "title": "Μίκυ Μάους #564 Η ΓΑΛΑΖΙΑ ΠΕΤΡΑ – Η ΑΡΧΗ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/swm-MM564_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563542612/miky-maoys-564-i-galazia-petra-i-archi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-565",
+    "issueNumber": "565",
+    "title": "Μίκυ Μάους #565 Η ΜΥΣΤΙΚΗ ΦΟΡΜΟΥΛΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/Disney_Calendar_April_1920x1080-1.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563542621/miky-maoys-565-i-mystiki-formoyla/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-566",
+    "issueNumber": "566",
+    "title": "Μίκυ Μάους #566 ΟΙ ΣΤΟΙΧΕΙΩΜΕΝΟΙ ΠΙΝΑΚΕΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/MM566_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563542660/miky-maoys-566-oi-stoicheiomenoi-pinakes/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-567",
+    "issueNumber": "567",
+    "title": "Μίκυ Μάους #567 Η ΓΑΛΑΖΙΑ ΠΕΤΡΑ – ΤΟ ΤΕΛΟΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/swm-MM567_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563542681/miky-maoys-567-i-galazia-petra-to-telos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-568",
+    "issueNumber": "568",
+    "title": "Μίκυ Μάους #568 ΣΥΜΜΑΧΟΙ & ΣΥΝΕΤΑΙΡΟΙ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/swm-MM568_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563588434/miky-maoys-568-symmachoi-amp-synetairoi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-569",
+    "issueNumber": "569",
+    "title": "Μίκυ Μάους #569 ΤΟ ΝΑΥΑΓΙΟ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/swm-MM569_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563588443/miky-maoys-569-to-nayagio/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-570",
+    "issueNumber": "570",
+    "title": "Μίκυ Μάους #570 ΤΟ ΒΙΒΛΙΟ ΤΩΝ ΣΦΑΛΜΑΤΩΝ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/swm-MM570_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563588461/miky-maoys-570-to-vivlio-ton-sfalmaton/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-571",
+    "issueNumber": "571",
+    "title": "Μίκυ Μάους #571 Ο ΑΡΧΟΝΤΑΣ ΤΗΣ ΚΑΤΑΙΓΙΔΑΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/swm-MM571_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563588491/miky-maoys-571-o-archontas-tis-kataigidas/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-572",
+    "issueNumber": "572",
+    "title": "Μίκυ Μάους #572 ΟΙ ΔΡΟΜΟΙ ΤΟΥ ΝΕΡΟΥ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/04/swm-MM572_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563588497/miky-maoys-572-oi-dromoi-toy-neroy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-573",
+    "issueNumber": "573",
+    "title": "Μίκυ Μάους #573 ΨΕΥΤΙΚΗ ΑΛΗΘΕΙΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/05/MM573_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563640421/miky-maoys-573-pseytiki-alitheia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-574",
+    "issueNumber": "574",
+    "title": "Μίκυ Μάους #574 Ο ΕΞΩΗΛΙΑΚΟΣ ΘΗΣΑΥΡΟΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/05/MM574_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563640430/miky-maoys-574-o-exoiliakos-thisayros/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-575",
+    "issueNumber": "575",
+    "title": "Μίκυ Μάους #575 ΤΟ ΨΕΥΤΙΚΟ ΣΚΥΛΟΨΑΡΟ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/05/swm-MM575_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563640487/miky-maoys-575-to-pseytiko-skylopsaro/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-576",
+    "issueNumber": "576",
+    "title": "Μίκυ Μάους #576 ΜΥΣΤΗΡΙΟ ΣΤΗΝ ΑΒΥΣΣΟ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/05/swm-MM576_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563640517/miky-maoys-576-mystirio-stin-avysso/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-577",
+    "issueNumber": "577",
+    "title": "Μίκυ Μάους #577 Ο ΜΑΓΙΚΟΣ ΚΟΥΜΠΑΡΑΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/07/swm-MM577_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563695906/miky-maoys-577-o-magikos-koymparas/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-578",
+    "issueNumber": "578",
+    "title": "Μίκυ Μάους #578 ΥΠΟΘΕΣΗ ΚΑΟΥΤΣΟΥΚ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/07/swm-MM578_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563695915/miky-maoys-578-ypothesi-kaoytsoyk/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-579",
+    "issueNumber": "579",
+    "title": "Μίκυ Μάους #579 ΑΝΕΞΙΧΝΙΑΣΤΗ ΥΠΟΘΕΣΗ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/07/swm-MM579_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563695933/miky-maoys-579-anexichniasti-ypothesi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-580",
+    "issueNumber": "580",
+    "title": "Μίκυ Μάους #580 ΜΟΝΟΜΑΧΙΑ ΚΡΟΙΣΩΝ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/07/swm-MM580_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563695960/miky-maoys-580-monomachia-kroison/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-581",
+    "issueNumber": "581",
+    "title": "Μίκυ Μάους #581 FAST TRACK MICKEY 1",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/08/MM581_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563745457/miky-maoys-581-fast-track-mickey-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-582",
+    "issueNumber": "582",
+    "title": "Μίκυ Μάους #582 FAST TRACK MICKEY 2",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/08/MM582_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563745469/miky-maoys-582-fast-track-mickey-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-583",
+    "issueNumber": "583",
+    "title": "Μίκυ Μάους #583 FAST TRACK MICKEY 3",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/08/swm-MM583_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563745520/miky-maoys-583-fast-track-mickey-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-584",
+    "issueNumber": "584",
+    "title": "Μίκυ Μάους #584 ΠΑΛΙΝΔΡΟΜΙΚΗ ΠΡΑΓΜΑΤΙΚΟΤΗΤΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/08/swm-MM584_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563745568/miky-maoys-584-palindromiki-pragmatikotita/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-586",
+    "issueNumber": "586",
+    "title": "Μίκυ Μάους #586 Η ΕΠΙΣΤΡΟΦΗ ΤΟΥ ΜΠΛΟΥΖΙΣΤΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/09/swm-MM586_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563791918/miky-maoys-586-i-epistrofi-toy-mployzista/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-587",
+    "issueNumber": "587",
+    "title": "Μίκυ Μάους #587 ΠΕΡΙΠΕΤΕΙΑ ΣΤΗΝ ΛΕΥΚΗ ΗΠΕΙΡΟ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/09/swm-MM587_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563791933/miky-maoys-587-peripeteia-stin-leyki-ipeiro/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-588",
+    "issueNumber": "588",
+    "title": "Μίκυ Μάους #588 Ο ΦΑΝΤΟΜ ΝΤΑΚ ΚΑΤΑΖΗΤΕΙΤΑΙ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/09/swm-MM588_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563791966/miky-maoys-588-o-fantom-ntak-kataziteitai/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-589",
+    "issueNumber": "589",
+    "title": "Μίκυ Μάους #589 Ο ΦΑΝΤΟΜ ΝΤΑΚ ΚΑΤΑΖΗΤΕΙΤΑΙ 2",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/09/MM589_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563792002/miky-maoys-589-o-fantom-ntak-kataziteitai-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-590",
+    "issueNumber": "590",
+    "title": "Μίκυ Μάους #590 ΤΟ ΑΚΑΤΑΜΑΧΗΤΟ ΜΠΙΣΚΟΤΟ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/10/swm-MM590_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563843452/miky-maoys-590-to-akatamachito-mpiskoto/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-591",
+    "issueNumber": "591",
+    "title": "Μίκυ Μάους #591 Ο ΑΡΓΟΣΧΟΛΟΣ ΚΕΡΒΕΡΟΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/10/swm-MM591_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563843473/miky-maoys-591-o-argoscholos-kerveros/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-592",
+    "issueNumber": "592",
+    "title": "Μίκυ Μάους #592 ΤΟ ΜΕΓΑΛΟ ΠΑΙΧΝΙΔΙ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/10/swm-MM592_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563843509/miky-maoys-592-to-megalo-paichnidi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-593",
+    "issueNumber": "593",
+    "title": "Μίκυ Μάους #593 Η ΜΕΤΑΚΟΜΙΣΗ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/10/swm-MM593_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563843593/miky-maoys-593-i-metakomisi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-595",
+    "issueNumber": "595",
+    "title": "Μίκυ Μάους #595 ΕΙΣΒΟΛΗ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/11/swm-MM595_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563900077/miky-maoys-595-eisvoli/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-596",
+    "issueNumber": "596",
+    "title": "Μίκυ Μάους #596 ΚΥΝΗΓΟΙ ΚΑΙ ΚΥΝΗΓΗΜΕΝΟΙ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/11/swm-MM596_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563900122/miky-maoys-596-kynigoi-kai-kynigimenoi/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-597",
+    "issueNumber": "597",
+    "title": "Μίκυ Μάους #597 ΕΠΙΣΤΡΟΦΗ ΣΤΗΝ ΠΑΤΡΙΔΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/11/MM597_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563900164/miky-maoys-597-epistrofi-stin-patrida/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-598",
+    "issueNumber": "598",
+    "title": "Μίκυ Μάους #598 ΑΠΕΙΛΗ ΣΤΟΝ ΚΑΘΡΕΦΤΗ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/11/MM598_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563900188/miky-maoys-598-apeili-ston-kathrefti/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-599",
+    "issueNumber": "599",
+    "title": "Μίκυ Μάους #599 ΜΟΝΟΜΑΧΙΑ ΕΞΟΙΚΟΝΟΜΗΣΗΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/swm-MM599_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563951515/miky-maoys-599-monomachia-exoikonomisis/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-600",
+    "issueNumber": "600",
+    "title": "Μίκυ Μάους #600 ΑΣΤΡΟΛΟΓΙΚΗ ΣΤΡΑΤΗΓΙΚΗ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/swm-MM600_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563965828/miky-maoys-600-astrologiki-stratigiki/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-601",
+    "issueNumber": "601",
+    "title": "Μίκυ Μάους #601 ΜΙΚΡΕΣ ΧΡΙΣΤΟΥΓΕΝΝΙΑΤΙΚΕΣ ΑΛΗΘΕΙΕΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/swm-MM601_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563965870/miky-maoys-601-mikres-christoygenniatikes-alitheies/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-603",
+    "issueNumber": "603",
+    "title": "Μίκυ Μάους #603 ΤΟ ΑΟΡΑΤΟ ΦΑΝΤΑΣΜΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/swm-MM603_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563999713/miky-maoys-603-to-aorato-fantasma/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-604",
+    "issueNumber": "604",
+    "title": "Μίκυ Μάους #604 Η ΑΡΧΗ ΚΑΙ ΤΟ ΤΕΛΟΣ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/swm-MM604_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563999731/miky-maoys-604-i-archi-kai-to-telos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-605",
+    "issueNumber": "605",
+    "title": "Μίκυ Μάους #605 ΤΑΞΙΔΙ ΣΤΟΝ ΜΙΚΡΟΚΟΣΜΟ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/MM605_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563999758/miky-maoys-605-taxidi-ston-mikrokosmo/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-606",
+    "issueNumber": "606",
+    "title": "Μίκυ Μάους #606 ΣΤΑ ΙΧΝΗ ΤΩΝ ΛΑΘΡΟΚΥΝΗΓΩΝ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/MM606_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563999800/miky-maoys-606-sta-ichni-ton-lathrokynigon/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-607",
+    "issueNumber": "607",
+    "title": "Μίκυ Μάους #607 ΤΟ ΜΟΝΟΠΑΤΙ ΤΟΥ ΛΕΥΚΟΥ ΠΟΥΜΑ",
+    "year": 2025,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2025/12/swm-MM607_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/563999827/miky-maoys-607-to-monopati-toy-leykoy-poyma/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-609",
+    "issueNumber": "609",
+    "title": "Μίκυ Μάους #609 ΤΟ ΜΥΣΤΙΚΟ ΤΗΣ ΒΙΛΑΣ ΓΙΡΛΑΝΤΑ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/02/swm-MM609_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564057607/miky-maoys-609-to-mystiko-tis-vilas-girlanta/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-611",
+    "issueNumber": "611",
+    "title": "Μίκυ Μάους #611 ΝΕΟ ΞΕΚΙΝΗΜΑ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/02/swm-MM611_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564057700/miky-maoys-611-neo-xekinima/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-612",
+    "issueNumber": "612",
+    "title": "Μίκυ Μάους #612 ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΘΗΣΑΥΡΟΦΥΛΑΚΙΟΥ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/02/Disney_Calendar_February_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564103786/miky-maoys-612-ta-mystika-toy-thisayrofylakioy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-613",
+    "issueNumber": "613",
+    "title": "Μίκυ Μάους #613 Η ΣΚΙΑ ΤΟΥ ΜΙΣΤΕΡ ΒΕΡΤΙΓΚΟ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/03/MM613_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564103801/miky-maoys-613-i-skia-toy-mister-vertigko/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-614",
+    "issueNumber": "614",
+    "title": "Μίκυ Μάους #614 Ο ΑΔΙΟΡΘΩΤΟΣ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/03/MM614_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564103858/miky-maoys-614-o-adiorthotos/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-616",
+    "issueNumber": "616",
+    "title": "Μίκυ Μάους #616 Η ΑΝΑΒΑΣΗ ΤΟΥ ΑΙΩΝΑ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/04/swm-MM616_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564156460/miky-maoys-616-i-anavasi-toy-aiona/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-617",
+    "issueNumber": "617",
+    "title": "Μίκυ Μάους #617 Η ΣΧΕΔΟΝ ΤΕΛΕΙΑ ΛΗΣΤΕΙΑ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/04/swm-MM617_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564162604/miky-maoys-617-i-schedon-teleia-listeia/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-618",
+    "issueNumber": "618",
+    "title": "Μίκυ Μάους #618 ΤΑ ΜΟΝΟΠΑΤΙΑ ΣΤΗΝ ΚΟΡΥΦΗ ΤΟΥ ΚΟΣΜΟΥ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/04/swm-MM618_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564162649/miky-maoys-618-ta-monopatia-stin-koryfi-toy-kosmoy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-620",
+    "issueNumber": "620",
+    "title": "Μίκυ Μάους #620 ΤΟ ΟΝΟΜΑ ΜΟΥ ΕΙΝΑΙ ΦΑΝΤΟΜ ΝΤΑΚ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/04/MM620_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564202522/miky-maoys-620-to-onoma-moy-einai-fantom-ntak/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-621",
+    "issueNumber": "621",
+    "title": "Μίκυ Μάους #621 ΤΟ ΟΝΟΜΑ ΜΟΥ ΕΙΝΑΙ ΦΑΝΤΟΜ ΝΤΑΚ 2",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/05/MM621_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564206989/miky-maoys-621-to-onoma-moy-einai-fantom-ntak-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-622",
+    "issueNumber": "622",
+    "title": "Μίκυ Μάους #622 ΤΟ ΡΑΛΛΥ ΤΗΣ ΛΙΜΝΟΥΠΟΛΗΣ 1",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/05/swm-MM622_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564207007/miky-maoys-622-to-rally-tis-limnoypolis-1/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-623",
+    "issueNumber": "623",
+    "title": "Μίκυ Μάους #623 ΤΟ ΡΑΛΛΥ ΤΗΣ ΛΙΜΝΟΥΠΟΛΗΣ 2",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/05/swm-MM623_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564207028/miky-maoys-623-to-rally-tis-limnoypolis-2/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-624",
+    "issueNumber": "624",
+    "title": "Μίκυ Μάους #624 ΤΟ ΡΑΛΛΥ ΤΗΣ ΛΙΜΝΟΥΠΟΛΗΣ 3",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/05/swm-MM624_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564207055/miky-maoys-624-to-rally-tis-limnoypolis-3/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-626",
+    "issueNumber": "626",
+    "title": "Μίκυ Μάους #626 ΑΣΤΑΘΜΗΤΟΣ ΠΑΡΑΓΟΝΤΑΣ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/06/swm-MM626_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564262438/miky-maoys-626-astathmitos-paragontas/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-628",
+    "issueNumber": "628",
+    "title": "Μίκυ Μάους #628 ΗΧΟΧΡΩΜΑΤΑ ΤΟΥ ΠΑΛΙΟΥ ΚΑΙΡΟΥ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/05/Disney_Calendar_June_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564262483/miky-maoys-628-ichochromata-toy-palioy-kairoy/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-629",
+    "issueNumber": "629",
+    "title": "Μίκυ Μάους #629 Ο ΘΡΥΛΟΣ ΤΟΥ ΦΡΑΝΣΙΣ ΝΤΡΕΗΚ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/06/MM629_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564315997/miky-maoys-629-o-thrylos-toy-fransis-ntreik/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-630",
+    "issueNumber": "630",
+    "title": "Μίκυ Μάους #630 Ο ΠΡΙΓΚΙΠΑΣ ΤΟΥ ΨΕΥΔΟΥΣ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/06/swm-MM630_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564316006/miky-maoys-630-o-prigkipas-toy-pseydoys/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-631",
+    "issueNumber": "631",
+    "title": "Μίκυ Μάους #631 ΤΟ ΜΕΓΑΛΟ ΠΕΙΡΑΜΑ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/06/swm-MM631_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564316024/miky-maoys-631-to-megalo-peirama/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-633",
+    "issueNumber": "633",
+    "title": "Μίκυ Μάους #633 ΑΠΟΣΤΟΛΗ ΣΤΟΥΣ ΤΡΟΠΙΚΟΥΣ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/06/swm-MM633_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564316075/miky-maoys-633-apostoli-stoys-tropikoys/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-635",
+    "issueNumber": "635",
+    "title": "Μίκυ Μάους #635 Η ΠΗΓΗ ΤΗΣ ΝΙΟΤΗΣ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/08/swm-MM635_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564395935/miky-maoys-635-i-pigi-tis-niotis/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-636",
+    "issueNumber": "636",
+    "title": "Μίκυ Μάους #636 ΕΙΜΑΙ ΤΟ ΜΑΥΡΟ ΦΑΝΤΑΣΜΑ!",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/08/MM636_1920x1080.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564405640/miky-maoys-636-eimai-to-mayro-fantasma/"
+  },
+  {
+    "seriesKey": "mickey",
+    "catalogKey": "mickey-637",
+    "issueNumber": "637",
+    "title": "Μίκυ Μάους #637 Η ΤΕΛΕΥΤΑΙΑ ΠΕΡΙΠΕΤΕΙΑ",
+    "year": 2026,
+    "coverUrl": "https://www.kathimerini.gr/wp-content/uploads/2026/08/MM637_1920x1080_new.jpg",
+    "sourceUrl": "https://www.kathimerini.gr/k/disney/564405676/miky-maoys-637-i-teleytaia-peripeteia/"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-1",
+    "issueNumber": "1",
+    "title": "The Phantom #1 - Η Απαγορευμένη Γη",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/logos_other_publishers/tomahwk-angel-1-mikros_iros.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-1"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-2",
+    "issueNumber": "2",
+    "title": "Νέος Μπλεκ #2",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek002.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-2"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-3",
+    "issueNumber": "3",
+    "title": "Οι Έγκλειστοι #3",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek003.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-3"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-4",
+    "issueNumber": "4",
+    "title": "Νέος Μπλεκ #4",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek004.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-4"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-5",
+    "issueNumber": "5",
+    "title": "Τεξ GN #5 - Μέσα Μπλάνκα",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/tex-5-cover-final-mikros-iros.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-5"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-6",
+    "issueNumber": "6",
+    "title": "Νέος Μπλεκ #6",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek006.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-6"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-7",
+    "issueNumber": "7",
+    "title": "Νέος Μπλεκ #7",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek007.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-7"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-8",
+    "issueNumber": "8",
+    "title": "Νέος Μπλεκ #8",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek008.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-8"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-9",
+    "issueNumber": "9",
+    "title": "Νέος Μπλεκ #9",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek009.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-9"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-10",
+    "issueNumber": "10",
+    "title": "Νέος Μπλεκ #10",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek010.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-10"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-11",
+    "issueNumber": "11",
+    "title": "Νέος Μπλεκ #11",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek011.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-11"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-12",
+    "issueNumber": "12",
+    "title": "Νέος Μπλεκ #12",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek012.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-12"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-13",
+    "issueNumber": "13",
+    "title": "Νέος Μπλεκ #13",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek013.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-13"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-14",
+    "issueNumber": "14",
+    "title": "Νέος Μπλεκ #14",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek014.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-14"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-15",
+    "issueNumber": "15",
+    "title": "Νέος Μπλεκ #15",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek015.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-15"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-16",
+    "issueNumber": "16",
+    "title": "Νέος Μπλεκ #16",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek016.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-16"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-17",
+    "issueNumber": "17",
+    "title": "Νέος Μπλεκ #17",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek017.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-17"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-18",
+    "issueNumber": "18",
+    "title": "Νέος Μπλεκ #18",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek018.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-18"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-19",
+    "issueNumber": "19",
+    "title": "Νέος Μπλεκ #19",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek019.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-19"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-20",
+    "issueNumber": "20",
+    "title": "Νέος Μπλεκ #20",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek020.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-20"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-21",
+    "issueNumber": "21",
+    "title": "Νέος Μπλεκ #21",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek021.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-21"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-22",
+    "issueNumber": "22",
+    "title": "Νέος Μπλεκ #22",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek022.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-22"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-23",
+    "issueNumber": "23",
+    "title": "Νέος Μπλεκ #23",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek023.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-23"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-24",
+    "issueNumber": "24",
+    "title": "Νέος Μπλεκ #24",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek024.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-24"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-25",
+    "issueNumber": "25",
+    "title": "Νέος Μπλεκ #25",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek025.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-25"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-26",
+    "issueNumber": "26",
+    "title": "Νέος Μπλεκ #26",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek026.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-26"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-27",
+    "issueNumber": "27",
+    "title": "Νέος Μπλεκ #27",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek027.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-27"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-28",
+    "issueNumber": "28",
+    "title": "Νέος Μπλεκ #28 Έξτρα",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek028g.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-28"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-29",
+    "issueNumber": "29",
+    "title": "Νέος Μπλεκ #29",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek029.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-29"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-30",
+    "issueNumber": "30",
+    "title": "Ιζνογκούντ #30 - Από Πατέρα σε Γιο",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek030.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-30"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-31",
+    "issueNumber": "31",
+    "title": "Νέος Μπλεκ #31",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek031.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-31"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-32",
+    "issueNumber": "32",
+    "title": "Νέος Μπλεκ #32",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek032.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-32"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-33",
+    "issueNumber": "33",
+    "title": "Νέος Μπλεκ #33",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek033.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-33"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-34",
+    "issueNumber": "34",
+    "title": "Νέος Μπλεκ #34",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek034.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-34"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-35",
+    "issueNumber": "35",
+    "title": "Νέος Μπλεκ #35",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek035.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-35"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-36",
+    "issueNumber": "36",
+    "title": "Νέος Μπλεκ #36",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek036.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-36"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-37",
+    "issueNumber": "37",
+    "title": "Νέος Μπλεκ #37",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek037.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-37"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-38",
+    "issueNumber": "38",
+    "title": "Νέος Μπλεκ #38",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek038.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-38"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-39",
+    "issueNumber": "39",
+    "title": "Νέος Μπλεκ #39",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_mplek_No39.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-39"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-40",
+    "issueNumber": "40",
+    "title": "Νέος Μπλεκ #40",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek040.jpg.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-40"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-41",
+    "issueNumber": "41",
+    "title": "Νέος Μπλεκ #41",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek041.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-41"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-42",
+    "issueNumber": "42",
+    "title": "Νέος Μπλεκ #42",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_blek_042.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-42"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-43",
+    "issueNumber": "43",
+    "title": "Νέος Μπλεκ #43",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_blek043.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-43"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-44",
+    "issueNumber": "44",
+    "title": "Νέος Μπλεκ #44",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_blek044.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-44"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-45",
+    "issueNumber": "45",
+    "title": "Νέος Μπλεκ #45",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_blek_t045.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-45"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-46",
+    "issueNumber": "46",
+    "title": "Νέος Μπλεκ #46",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek046.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-46"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-47",
+    "issueNumber": "47",
+    "title": "Νέος Μπλεκ #47",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek047.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-47"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-48",
+    "issueNumber": "48",
+    "title": "Νέος Μπλεκ #48",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek048.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-48"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-49",
+    "issueNumber": "49",
+    "title": "Νέος Μπλεκ #49",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek049.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-49"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-50",
+    "issueNumber": "50",
+    "title": "Νέος Μπλεκ #50",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek050.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-50"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-51",
+    "issueNumber": "51",
+    "title": "Νέος Μπλεκ #51",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek051.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-51"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-52",
+    "issueNumber": "52",
+    "title": "Νέος Μπλεκ #52",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek052.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-52"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-53",
+    "issueNumber": "53",
+    "title": "Νέος Μπλεκ #53",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek053.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-53"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-54",
+    "issueNumber": "54",
+    "title": "Νέος Μπλεκ #54",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek054.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-54"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-55",
+    "issueNumber": "55",
+    "title": "Νέος Μπλεκ #55",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek055.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-55"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-56",
+    "issueNumber": "56",
+    "title": "Νέος Μπλεκ #56",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek056.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-56"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-57",
+    "issueNumber": "57",
+    "title": "Νέος Μπλεκ #57",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek057.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-57"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-58",
+    "issueNumber": "58",
+    "title": "Νέος Μπλεκ #58",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek058.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-58"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-59",
+    "issueNumber": "59",
+    "title": "Νέος Μπλεκ #59",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek059.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-59"
+  },
+  {
+    "seriesKey": "neos-blek",
+    "catalogKey": "neos-blek-60",
+    "issueNumber": "60",
+    "title": "Νέος Μπλεκ #60",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_neos_mplek060.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/neos-blek/neos-mplek-no-60"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-1",
+    "issueNumber": "1",
+    "title": "Popeye #1",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-kathimerini-1-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye/popeye-no-1"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-2",
+    "issueNumber": "2",
+    "title": "Popeye #2",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-2-kathimerini-final-cover-mh(1).jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye/popeye-no-2"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-3",
+    "issueNumber": "3",
+    "title": "Popeye #3",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_popeye_03.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye/popeye-no-3"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-4",
+    "issueNumber": "4",
+    "title": "Popeye #4",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_popeye_04.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye/popeye-no-4"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-5",
+    "issueNumber": "5",
+    "title": "Κλασικές Ιστορίες Popeye #5 – Ηλεκτρονικές Σφαλιάρες (1978-1980)",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-5-cover-mikros-iros.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/klasikes-istories-popeye-5"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-6",
+    "issueNumber": "6",
+    "title": "Ποπάυ #6",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-6-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-06"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-7",
+    "issueNumber": "7",
+    "title": "Ποπάυ #7",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-7-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-07"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-8",
+    "issueNumber": "8",
+    "title": "Ποπάυ #8",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-8-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-08"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-9",
+    "issueNumber": "9",
+    "title": "Ποπάυ #9",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-9-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-09"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-10",
+    "issueNumber": "10",
+    "title": "Ποπάυ #10",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/blog/popeye-mag-10-mh%20(1).jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-10"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-11",
+    "issueNumber": "11",
+    "title": "Ποπάυ #11",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-11-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-11"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-12",
+    "issueNumber": "12",
+    "title": "Ποπάυ #12",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-12-cover-mh%20(1).jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-12"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-13",
+    "issueNumber": "13",
+    "title": "Ποπάυ #13",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-13-cover-μη%20(1).jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-13"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-14",
+    "issueNumber": "14",
+    "title": "Ποπάυ #14",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-14-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-14"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-15",
+    "issueNumber": "15",
+    "title": "Ποπάυ #15",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-15-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-15"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-16",
+    "issueNumber": "16",
+    "title": "Ποπάυ #16",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-16-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-16"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-17",
+    "issueNumber": "17",
+    "title": "Ποπάυ #17",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-17-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-17"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-18",
+    "issueNumber": "18",
+    "title": "Ποπάυ #18",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-18-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-18"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-19",
+    "issueNumber": "19",
+    "title": "Ποπάυ #19",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-19-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-19"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-20",
+    "issueNumber": "20",
+    "title": "Ποπάυ #20",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-20-cover-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-magazine-20"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-21",
+    "issueNumber": "21",
+    "title": "Ποπάυ #21",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-mag-21-mh.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine"
+  },
+  {
+    "seriesKey": "popeye",
+    "catalogKey": "popeye-thiasos",
+    "issueNumber": "Θίασος",
+    "title": "Ποπάυ - Ο Θίασος",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/popeye-o-thiasos-cover.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/popeye-magazine/popeye-o-thiasos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-1",
+    "issueNumber": "1",
+    "title": "Συλλεκτικό Μπλεκ #1",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek001.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-1-o-ksanthos-gigas"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-2",
+    "issueNumber": "2",
+    "title": "Συλλεκτικό Μπλεκ #2",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek002.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-2-demenos-sto-kanoni"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-3",
+    "issueNumber": "3",
+    "title": "Συλλεκτικό Μπλεκ #3",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek003.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-3-o-musthriwdhs-lukos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-4",
+    "issueNumber": "4",
+    "title": "Συλλεκτικό Μπλεκ #4",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek004.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-4-h-zwntanh-panoplia"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-5",
+    "issueNumber": "5",
+    "title": "Συλλεκτικό Μπλεκ #5",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek005.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-5-h-foverh-dokimasia"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-6",
+    "issueNumber": "6",
+    "title": "Συλλεκτικό Μπλεκ #6",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek006.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-6-ta-tria-kommatia"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-7",
+    "issueNumber": "7",
+    "title": "Συλλεκτικό Μπλεκ #7",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek007.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-7-h-epikindunh-taverna"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-8",
+    "issueNumber": "8",
+    "title": "Συλλεκτικό Μπλεκ #8",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek008.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-8-to-mhnuma-tou-upnwtisth"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-9",
+    "issueNumber": "9",
+    "title": "Συλλεκτικό Μπλεκ #9",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek009.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-9-epidromi-sto-frourio"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-10",
+    "issueNumber": "10",
+    "title": "Συλλεκτικό Μπλεκ #10",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek010.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-10-ston-potamo-ths-sumforas"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-11",
+    "issueNumber": "11",
+    "title": "Συλλεκτικό Μπλεκ #11",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek011.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-11-mplek-enantion-mplek"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-12",
+    "issueNumber": "12",
+    "title": "Συλλεκτικό Μπλεκ #12",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek012.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-12-oi-treis-mustiriwdeis-fwties"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-13",
+    "issueNumber": "13",
+    "title": "Συλλεκτικό Μπλεκ #13",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek013.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-13-ena-trelo-sxedio"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-14",
+    "issueNumber": "14",
+    "title": "Συλλεκτικό Μπλεκ #14",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek014.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-14-to-agalma-pou-mila"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-15",
+    "issueNumber": "15",
+    "title": "Συλλεκτικό Μπλεκ #15",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek015.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-15-o-ronti-aixmalwtos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-16",
+    "issueNumber": "16",
+    "title": "Συλλεκτικό Μπλεκ #16",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek016.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-16-o-mplek-se-drasi"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-17",
+    "issueNumber": "17",
+    "title": "Συλλεκτικό Μπλεκ #17",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek017.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-17-polemwntas-gia-thn-eleftheria"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-18",
+    "issueNumber": "18",
+    "title": "Συλλεκτικό Μπλεκ #18",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek018.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-18-oi-lukanthrwpoi-eksormoun"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-19",
+    "issueNumber": "19",
+    "title": "Συλλεκτικό Μπλεκ #19",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek019.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-19-oi-peripeteies-enos-thisavrou"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-20",
+    "issueNumber": "20",
+    "title": "Συλλεκτικό Μπλεκ #20",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek020.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-20-o-thanatos-tou-kathigiti"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-21",
+    "issueNumber": "21",
+    "title": "Συλλεκτικό Μπλεκ #21",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek021.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-21-o-autokratwr-tou-dasous"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-22",
+    "issueNumber": "22",
+    "title": "Συλλεκτικό Μπλεκ #22",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek022.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-22-enas-upoulos-prodoths"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-23",
+    "issueNumber": "23",
+    "title": "Συλλεκτικό Μπλεκ #23",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek023.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-23-ena-trelo-ainigma"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-24",
+    "issueNumber": "24",
+    "title": "Συλλεκτικό Μπλεκ #24",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek024.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-24-o-theios-polikarpos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-25",
+    "issueNumber": "25",
+    "title": "Συλλεκτικό Μπλεκ #25",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek025.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-25-to-fantasma"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-26",
+    "issueNumber": "26",
+    "title": "Συλλεκτικό Μπλεκ #26",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek026.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-26-stous-lofous-ths-siwphs"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-27",
+    "issueNumber": "27",
+    "title": "Συλλεκτικό Μπλεκ #27",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek027.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-27-to-mustiko-frourio"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-28",
+    "issueNumber": "28",
+    "title": "Συλλεκτικό Μπλεκ #28",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek028.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-28-o-ronti-kindunevei"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-29",
+    "issueNumber": "29",
+    "title": "Συλλεκτικό Μπλεκ #29",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek029.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-29-o-tromos-tou-prodoth"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-30",
+    "issueNumber": "30",
+    "title": "Συλλεκτικό Μπλεκ #30",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek030.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-30-to-anoigma-tou-amaksiou"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-31",
+    "issueNumber": "31",
+    "title": "Συλλεκτικό Μπλεκ #31",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek031.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-31-o-ronti-stratiwths"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-32",
+    "issueNumber": "32",
+    "title": "Συλλεκτικό Μπλεκ #32",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek032.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-32-yorik-o-tromeros"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-33",
+    "issueNumber": "33",
+    "title": "Συλλεκτικό Μπλεκ #33",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek033.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-33-h-greta-ekdikeitai"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-34",
+    "issueNumber": "34",
+    "title": "Συλλεκτικό Μπλεκ #34",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek034.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-34-telesigrafo-ston-kiverniti"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-35",
+    "issueNumber": "35",
+    "title": "Συλλεκτικό Μπλεκ #35",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek035.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-35-o-anthrwpos-me-th-maska"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-36",
+    "issueNumber": "36",
+    "title": "Συλλεκτικό Μπλεκ #36",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek036.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-36-h-korh-tou-lordou"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-37",
+    "issueNumber": "37",
+    "title": "Συλλεκτικό Μπλεκ #37",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek037.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-37-h-timwria"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-38",
+    "issueNumber": "38",
+    "title": "Συλλεκτικό Μπλεκ #38",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek038.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-38-h-prigipissa-twn-voana"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-39",
+    "issueNumber": "39",
+    "title": "Συλλεκτικό Μπλεκ #39",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek039.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-39-o-mplek-timwrei"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-40",
+    "issueNumber": "40",
+    "title": "Συλλεκτικό Μπλεκ #40",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek040.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-40-o-taxydaktylourgos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-41",
+    "issueNumber": "41",
+    "title": "Συλλεκτικό Μπλεκ #41",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek041.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-41-h-sphlia-twn-skeletwn"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-42",
+    "issueNumber": "42",
+    "title": "Συλλεκτικό Μπλεκ #42",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek042.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-42-peripeteia-sto-nhsi-xwris-onoma"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-43",
+    "issueNumber": "43",
+    "title": "Συλλεκτικό Μπλεκ #43",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek043.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-43-to-kunhgi-ths-kasetinas"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-44",
+    "issueNumber": "44",
+    "title": "Συλλεκτικό Μπλεκ #44",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek044.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-44-h-vasilissa-lorna"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-45",
+    "issueNumber": "45",
+    "title": "Συλλεκτικό Μπλεκ #45",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek045.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-45-to-nuxi-tou-pouma"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-46",
+    "issueNumber": "46",
+    "title": "Συλλεκτικό Μπλεκ #46",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek046.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-46-oi-treis-naftikoi"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-47",
+    "issueNumber": "47",
+    "title": "Συλλεκτικό Μπλεκ #47",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek047.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-47-to-flegomeno-ploio"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-48",
+    "issueNumber": "48",
+    "title": "Συλλεκτικό Μπλεκ #48",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek048.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-48-o-kapetan-geraki"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-49",
+    "issueNumber": "49",
+    "title": "Συλλεκτικό Μπλεκ #49",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek049.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-49-to-mustiko-tou-megalou-tsekouriou"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-50",
+    "issueNumber": "50",
+    "title": "Συλλεκτικό Μπλεκ #50",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek050.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-50-h-megalh-prodosia"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-51",
+    "issueNumber": "51",
+    "title": "Συλλεκτικό Μπλεκ #51",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek051.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-51-mia-trelh-peripeteia"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-52",
+    "issueNumber": "52",
+    "title": "Συλλεκτικό Μπλεκ #52",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek052.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-52-o-tzagouar-twn-thalasswn"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-53",
+    "issueNumber": "53",
+    "title": "Συλλεκτικό Μπλεκ #53",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek053.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-53-o-mysthriwdhs-swsias"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-54",
+    "issueNumber": "54",
+    "title": "Συλλεκτικό Μπλεκ #54",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek054.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-54-paraksenoi-patriwtes"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-55",
+    "issueNumber": "55",
+    "title": "Συλλεκτικό Μπλεκ #55",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek055.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-55-ena-plousio-gevma"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-56",
+    "issueNumber": "56",
+    "title": "Συλλεκτικό Μπλεκ #56",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek056.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-56-oi-mageies-tou-musthriou"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-57",
+    "issueNumber": "57",
+    "title": "Συλλεκτικό Μπλεκ #57",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek057.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-57-o-upoulos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-58",
+    "issueNumber": "58",
+    "title": "Συλλεκτικό Μπλεκ #58",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek058.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-58-duo-exhroi-filoi"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-59",
+    "issueNumber": "59",
+    "title": "Συλλεκτικό Μπλεκ #59",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek059.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-59-h-mikrh-indiana"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-60",
+    "issueNumber": "60",
+    "title": "Συλλεκτικό Μπλεκ #60",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek060.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-60-o-loxias-mplek"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-61",
+    "issueNumber": "61",
+    "title": "Συλλεκτικό Μπλεκ #61",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek061.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-61-o-thanatos-tou-mplek"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-62",
+    "issueNumber": "62",
+    "title": "Συλλεκτικό Μπλεκ #62",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek062.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-62-o-kataskopos-pou-irthe-apo-to-agnwsto"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-63",
+    "issueNumber": "63",
+    "title": "Συλλεκτικό Μπλεκ #63",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek063.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-63-ta-thavmata-tou-kathigiti"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-64",
+    "issueNumber": "64",
+    "title": "Συλλεκτικό Μπλεκ #64",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek064.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/64-h-skia-tou-gerakiou"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-65",
+    "issueNumber": "65",
+    "title": "Συλλεκτικό Μπλεκ #65",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek065.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-65-o-mplek-aixmalwtos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-66",
+    "issueNumber": "66",
+    "title": "Συλλεκτικό Μπλεκ #66",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek066.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-66-katastasi-poliorkias"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-67",
+    "issueNumber": "67",
+    "title": "Συλλεκτικό Μπλεκ #67",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek067.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-67-i-chameni-amaksa"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-68",
+    "issueNumber": "68",
+    "title": "Συλλεκτικό Μπλεκ #68",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek068.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-68-tragwdia-sto-dasos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-69",
+    "issueNumber": "69",
+    "title": "Συλλεκτικό Μπλεκ #69",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek069.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-69-sth-limnh-me-ta-fidia"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-70",
+    "issueNumber": "70",
+    "title": "Συλλεκτικό Μπλεκ #70",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek070.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-70-mia-peripeteia-oxi-san-tis-alles"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-71",
+    "issueNumber": "71",
+    "title": "Συλλεκτικό Μπλεκ #71",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek071.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-71-diatagh-anatinakste-to-frourio"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-72",
+    "issueNumber": "72",
+    "title": "Συλλεκτικό Μπλεκ #72",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek072.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-72-tha-se-skotwsw-mplek"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-73",
+    "issueNumber": "73",
+    "title": "Συλλεκτικό Μπλεκ #73",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek073.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-73-oi-athloi-tou-mplek"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-74",
+    "issueNumber": "74",
+    "title": "Συλλεκτικό Μπλεκ #74",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek074.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-74-to-totem-tou-mourat"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-75",
+    "issueNumber": "75",
+    "title": "Συλλεκτικό Μπλεκ #75",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek075.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-75-enas-deinosavros-sth-vostwnh"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-76",
+    "issueNumber": "76",
+    "title": "Συλλεκτικό Μπλεκ #76",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek076.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-76-diavolikh-ekdikhsh"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-77",
+    "issueNumber": "77",
+    "title": "Συλλεκτικό Μπλεκ #77",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek077.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-77-h-apagwgh-tou-lordou-gouinton"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-78",
+    "issueNumber": "78",
+    "title": "Συλλεκτικό Μπλεκ #78",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek078.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-78-o-koutsos-diavolos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-79",
+    "issueNumber": "79",
+    "title": "Συλλεκτικό Μπλεκ #79",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek079.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-79-to-katarameno-nhsi"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-80",
+    "issueNumber": "80",
+    "title": "Συλλεκτικό Μπλεκ #80",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek080.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-80-to-fantasma-tou-kastlmor"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-81",
+    "issueNumber": "81",
+    "title": "Συλλεκτικό Μπλεκ #81",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek081.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-81-to-megalo-ntermpi"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-82",
+    "issueNumber": "82",
+    "title": "Συλλεκτικό Μπλεκ #82",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek082.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-82-h-iwanna-ths-eleftherias"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-83",
+    "issueNumber": "83",
+    "title": "Συλλεκτικό Μπλεκ #83",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek083.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-83-o-thisavros-tou-manitou"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-84",
+    "issueNumber": "84",
+    "title": "Συλλεκτικό Μπλεκ #84",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek084.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/84-poios-aphgage-ton-ronti"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-85",
+    "issueNumber": "85",
+    "title": "Συλλεκτικό Μπλεκ #85",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek085.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-85-to-musthrio-tou-lafaget"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-86",
+    "issueNumber": "86",
+    "title": "Συλλεκτικό Μπλεκ #86",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek086.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-86-7-misthoforoi-enantion-tou-mplek"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-87",
+    "issueNumber": "87",
+    "title": "Συλλεκτικό Μπλεκ #87",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek087.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-87-sxoli-polemou"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-88",
+    "issueNumber": "88",
+    "title": "Συλλεκτικό Μπλεκ #88",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek088.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-88-voulkana-h-aiwnia-poli"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-89",
+    "issueNumber": "89",
+    "title": "Συλλεκτικό Μπλεκ #89",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek089.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-89-epeigon-mhnuma"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-90",
+    "issueNumber": "90",
+    "title": "Συλλεκτικό Μπλεκ #90",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek090.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-90-o-diktatoras"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-91",
+    "issueNumber": "91",
+    "title": "Συλλεκτικό Μπλεκ #91",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek091.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-91-o-kathigitis-kai-o-ronti-sth-fulakh"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-92",
+    "issueNumber": "92",
+    "title": "Συλλεκτικό Μπλεκ #92",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek092.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-92-o-thisavros-tou-peirath-klint"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-93",
+    "issueNumber": "93",
+    "title": "Συλλεκτικό Μπλεκ #93",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek093.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-93-enas-stygeros-dolofonos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-94",
+    "issueNumber": "94",
+    "title": "Συλλεκτικό Μπλεκ #94",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek094.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-94-o-ieros-lukos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-95",
+    "issueNumber": "95",
+    "title": "Συλλεκτικό Μπλεκ #95",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek095.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-95-erxontai-oi-aggloi"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-96",
+    "issueNumber": "96",
+    "title": "Συλλεκτικό Μπλεκ #96",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek096.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-96-o-kataskopos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-97",
+    "issueNumber": "97",
+    "title": "Συλλεκτικό Μπλεκ #97",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek097.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-97-enedra-sto-vouno"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-98",
+    "issueNumber": "98",
+    "title": "Συλλεκτικό Μπλεκ #98",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek098.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-98-h-nea-yorkh-flegetai"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-99",
+    "issueNumber": "99",
+    "title": "Συλλεκτικό Μπλεκ #99",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek099.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-99-to-mentioum-prodotis"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-100",
+    "issueNumber": "100",
+    "title": "Συλλεκτικό Μπλεκ #100",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek100.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-100-o-ronty-sullamvanetai"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-101",
+    "issueNumber": "101",
+    "title": "Συλλεκτικό Μπλεκ #101",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek101.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-101-o-tafos-twn-kataramenwn"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-102",
+    "issueNumber": "102",
+    "title": "Συλλεκτικό Μπλεκ #102",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek102.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-102-to-megalo-maxairi"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-103",
+    "issueNumber": "103",
+    "title": "Συλλεκτικό Μπλεκ #103",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek103.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-103-keravnoi-kai-agalmata"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-104",
+    "issueNumber": "104",
+    "title": "Συλλεκτικό Μπλεκ #104",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek104.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-104-h-arkouda-dolofonos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-105",
+    "issueNumber": "105",
+    "title": "Συλλεκτικό Μπλεκ #105",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek105.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-105-to-kastro-ths-frikhs"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-106",
+    "issueNumber": "106",
+    "title": "Συλλεκτικό Μπλεκ #106",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek106.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-106-o-mysthriwdhs-prodoths"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-107",
+    "issueNumber": "107",
+    "title": "Συλλεκτικό Μπλεκ #107",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek107.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-107-h-eksafanish-tou-kampouri"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-108",
+    "issueNumber": "108",
+    "title": "Συλλεκτικό Μπλεκ #108",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek108.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-108-o-daimonios-kalogeros"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-109",
+    "issueNumber": "109",
+    "title": "Συλλεκτικό Μπλεκ #109",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek109.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-109-mia-duskolh-apofash"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-110",
+    "issueNumber": "110",
+    "title": "Συλλεκτικό Μπλεκ #110",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek110.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-110-mia-kremala-gia-ton-mplek"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-111",
+    "issueNumber": "111",
+    "title": "Συλλεκτικό Μπλεκ #111",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek111.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-111-to-mystiko-ths-indianas"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-112",
+    "issueNumber": "112",
+    "title": "Συλλεκτικό Μπλεκ #112",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek112.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-112-h-xrysh-amaksa"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-113",
+    "issueNumber": "113",
+    "title": "Συλλεκτικό Μπλεκ #113",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek113.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-113-h-apagwgh-ths-komissas"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-114",
+    "issueNumber": "114",
+    "title": "Συλλεκτικό Μπλεκ #114",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek114.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-114-o-gypas"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-115",
+    "issueNumber": "115",
+    "title": "Συλλεκτικό Μπλεκ #115",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek115.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-115-h-megalh-apeilh"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-116",
+    "issueNumber": "116",
+    "title": "Συλλεκτικό Μπλεκ #116",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek116.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-116-h-aixmalwth-twn-indianwn"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-117",
+    "issueNumber": "117",
+    "title": "Συλλεκτικό Μπλεκ #117",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek117.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-117-h-eksegersi-twn-triks"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-118",
+    "issueNumber": "118",
+    "title": "Συλλεκτικό Μπλεκ #118",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek118.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-118-o-tritos-dolofonos"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-119",
+    "issueNumber": "119",
+    "title": "Συλλεκτικό Μπλεκ #119",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek119.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-119-o-thisavros-ths-prasinis-spilias"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-120",
+    "issueNumber": "120",
+    "title": "Συλλεκτικό Μπλεκ #120",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek120.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-120-diplo-paixnidi"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-121",
+    "issueNumber": "121",
+    "title": "Συλλεκτικό Μπλεκ #121",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek121.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-121-ena-atithaso-koritsi"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-122",
+    "issueNumber": "122",
+    "title": "Συλλεκτικό Μπλεκ #122",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek122.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-122-ena-kokkino-potami"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-123",
+    "issueNumber": "123",
+    "title": "Συλλεκτικό Μπλεκ #123",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek123.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-123-h-istoria-enos-pistoliou"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-124",
+    "issueNumber": "124",
+    "title": "Συλλεκτικό Μπλεκ #124",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek124.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-124-h-maska"
+  },
+  {
+    "seriesKey": "syllektiko-blek",
+    "catalogKey": "syllektiko-blek-125",
+    "issueNumber": "125",
+    "title": "Συλλεκτικό Μπλεκ #125",
+    "year": null,
+    "coverUrl": "https://www.mikrosiros.gr/image/catalog/mikros-iros_syl_mplek125.jpg",
+    "sourceUrl": "https://www.mikrosiros.gr/sullektiko-mplek/no-125-sthn-kopsi-tou-ksurafiou"
+  }
+]

@@ -1,0 +1,36 @@
+# Optional fallback: run manually from GitHub → Actions → Deploy web.
+# Auto-deploy on push uses .eas/workflows/deploy-web.yml (Expo GitHub integration).
+
+name: Deploy web
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-web-production
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    name: Deploy to EAS Hosting
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: expo/expo-github-action@v8
+        with:
+          eas-version: latest
+          token: ${{ secrets.EXPO_TOKEN }}
+
+      - run: npm ci
+
+      - name: Pull EAS production environment
+        run: eas env:pull --environment production --non-interactive
+
+      - name: Export and deploy
+        run: npm run deploy:web:prod
